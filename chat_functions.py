@@ -1,6 +1,10 @@
 import google.generativeai as genai
 import os
 from fpdf import FPDF
+from reportlab.pdfgen import canvas
+from reportlab.lib.pagesizes import A4
+from reportlab.pdfgen import canvas
+import textwrap
 
 
 # This function allows you to create multiple prompts, a concept for prompt engineering
@@ -26,4 +30,43 @@ def generate_content():
     print(response.text)
     return response.text
 
+# Function that save the response of model in one file pdf
+def save_text_on_pdf(name_file_pdf="file name"):
+    try:
+        obj_with_text = generate_content()
 
+        # Se for um objeto com atributo `.text`, pega o conteúdo
+        if hasattr(obj_with_text, 'text'):
+            content_text = obj_with_text.text
+        else:
+            content_text = str(obj_with_text)
+
+        # Criar PDF com o texto
+        c = canvas.Canvas(name_file_pdf, pagesize=A4)
+        width, height = A4
+        margin = 40
+        y = height - margin
+
+        lines = textwrap.wrap(content_text, width=100)
+
+        for line in lines:
+            if y < margin:
+                c.showPage()
+                y = height - margin
+            c.drawString(margin, y, line)
+            y -= 15
+
+        c.save()
+        print(f"Arquivo PDF salvo como: {name_file_pdf}")
+
+    except Exception as e:
+        print(f"Erro ao obter ou salvar o texto: {e}")
+    pdf = FPDF()
+    pdf.add_page()
+    pdf.set_font("Arial", size=12)
+    pdf.set_left_margin(10)
+    pdf.set_right_margin(10)
+    pdf.set_auto_page_break(True, margin=15)
+    pdf.multi_cell(0, 10, content_text)
+    pdf.output(name_file_pdf)
+    print(f"O texto foi salvo com sucesso em '{name_file_pdf}' usando FPDF.")
