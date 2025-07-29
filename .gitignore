@@ -25,5 +25,4 @@ site-packages/
 *.sqlite3
 .DS_Store # macOS
 Thumbs.db # Windows
-* .git
 *.git
