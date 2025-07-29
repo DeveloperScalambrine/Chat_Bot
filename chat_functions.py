@@ -35,13 +35,12 @@ def save_text_on_pdf(name_file_pdf="file name"):
     try:
         obj_with_text = generate_content()
 
-        # Se for um objeto com atributo `.text`, pega o conteúdo
         if hasattr(obj_with_text, 'text'):
             content_text = obj_with_text.text
         else:
             content_text = str(obj_with_text)
 
-        # Criar PDF com o texto
+        # Create a file PDF with text
         c = canvas.Canvas(name_file_pdf, pagesize=A4)
         width, height = A4
         margin = 40
