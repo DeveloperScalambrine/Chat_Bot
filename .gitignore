@@ -1,0 +1,29 @@
+Python
+*.pyc
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+*/venv/
+*/env/
+*/.venv/
+
+# Pacotes e dependências (geralmente instalados em ambiente virtual)
+# Embora já coberto por venv/, é bom ter para casos específicos
+site-packages/
+
+# IDE e editores
+.vscode/
+.idea/
+
+# Arquivos de log e outros
+*.log
+*.sqlite3
+.DS_Store # macOS
+Thumbs.db # Windows
+* .git
+*.git
