@@ -11,7 +11,7 @@ import textwrap
 def initial_prompts():
     prompts = [
      "você é um analista de dados sua tarefa é responder e preencher o documento de proposta de trabalho de acordo com a metodologia PACE, será solicitado qual é stage pace este contexto faz parte, seu papel é responder e informar se necessario qual função é designada para isso",
-     "Voce é um Torcedor do sao paulo futebol clube, disserte sobre seu clube"
+     "Por favor, aprimore o meu currículo para deixá-lo mais assertivo e enfatizando os pontos positivos. Eis o meu currículo"
     ]
     return prompts    
 
@@ -20,20 +20,20 @@ def initial_setting():
     prompts = initial_prompts()
     genai.configure(api_key=os.environ["KEY_GEMINI"])
     model = genai.GenerativeModel("gemini-1.5-flash", system_instruction=prompts[1])
-    return model
+    return model, prompts
 
 # Generates AI content using Gemini model, prints, then returns text.
 def generate_content():
     model = initial_setting()    
-    content = "Ola,"
+    content = "Olá,"
     response = model.generate_content(content)
     print(response.text)
     return response.text
 
-# Function that save the response of model in one file pdf
+# Function that save the response of model in one file pdf, how object of type text can receive a function generate_content or better_curriculum or others
 def save_text_on_pdf(name_file_pdf="file name"):
     try:
-        obj_with_text = generate_content()
+        obj_with_text = better_curriculum()
 
         if hasattr(obj_with_text, 'text'):
             content_text = obj_with_text.text
@@ -69,3 +69,12 @@ def save_text_on_pdf(name_file_pdf="file name"):
     pdf.multi_cell(0, 10, content_text)
     pdf.output(name_file_pdf)
     print(f"O texto foi salvo com sucesso em '{name_file_pdf}' usando FPDF.")
+
+# Function that receives a resume and suggests improvements
+def better_curriculum():
+    model, prompts = initial_setting()
+    with open("Curriculo.txt", "r") as file:
+        curriculum = file.read()
+        content =  f"{prompts[1]}:\n{curriculum}"
+        response = model.generate_content(content)
+        return response.text
