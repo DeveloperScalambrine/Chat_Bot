@@ -80,6 +80,7 @@ def better_curriculum():
         response = model.generate_content(content)
         return response.text
     
+# Function to upload of the files
 def upload_files():
     model, prompts = initial_setting()
     sheet = genai.upload_file(
@@ -89,4 +90,4 @@ def upload_files():
     content = prompts[2] 
     response = model.generate_content([sheet, content])
     return response.text
-save_text_on_pdf("Relatorio do campeonato de 2024")
+
