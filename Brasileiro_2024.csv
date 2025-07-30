@@ -1,0 +1,383 @@
+REF,ROD,HORA,JOGO,ESTÁDIO,CIDADE,UF,DATA,DIA,TimeMandante,UF_M,Gols_M,Gols_V,TimeVisitante,UF_V,GolMandante,GolVisitante,ROD_NUM
+1,1ª,18:30,Internacional                 RS  2  x  1  Bahia                            BA,Beira-Rio,Porto Alegre,RS,13/04,sab,Internacional,RS,2,1,Bahia,BA,Internacional RS - 2,Bahia BA - 1,1
+10,1ª,18:30,Criciúma                       SC  1  x  1  Juventude                    RS,Heriberto Hulse,Criciúma,SC,13/04,sab,Criciúma,SC,1,1,Juventude,RS,Criciúma SC - 1,Juventude RS - 1,1
+4,1ª,21:00,Fluminense                   RJ  2  x  2  Red Bull Bragantino    SP,Maracanã,Rio de Janeiro,RJ,13/04,sab,Fluminense,RJ,2,2,Red Bull Bragantino,SP,Fluminense RJ - 2,Red Bull Bragantino SP - 2,1
+7,1ª,21:00,São Paulo                     SP  1  x  2  Fortaleza                      CE,Morumbis,São Paulo,SP,13/04,sab,São Paulo,SP,1,2,Fortaleza,CE,São Paulo SP - 1,Fortaleza CE - 2,1
+9,1ª,16:00,Atlético                          GO 1  x  2  Flamengo                     RJ,Serra Dourada,Goiânia,GO,14/04,dom,Atlético,GO,1,2,Flamengo,RJ,Atlético GO - 1,Flamengo RJ - 2,1
+5,1ª,16:00,Vasco da Gama           RJ  2  x  1  Grêmio                         RS,São Januário,Rio de Janeiro,RJ,14/04,dom,Vasco da Gama,RJ,2,1,Grêmio,RS,Vasco da Gama RJ - 2,Grêmio RS - 1,1
+6,1ª,16:00,Corinthians                   SP  0  x  0  Atlético                         MG,Neo Química Arena,São Paulo,SP,14/04,dom,Corinthians,SP,0,0,Atlético,MG,Corinthians SP - 0,Atlético MG - 0,1
+8,1ª,16:00,Athletico                       PR  4  x  0  Cuiabá                          MT,Ligga Arena,Curitiba,PR,14/04,dom,Athletico,PR,4,0,Cuiabá,MT,Athletico PR - 4,Cuiabá MT - 0,1
+2,1ª,17:00,Cruzeiro                        MG 3  x  2  Botafogo                      RJ,Mineirão,Belo Horizonte,MG,14/04,dom,Cruzeiro,MG,3,2,Botafogo,RJ,Cruzeiro MG - 3,Botafogo RJ - 2,1
+3,1ª,18:30,Vitória                           BA  0  x  1  Palmeiras                     SP,Manoel Barradas,Salvador,BA,14/04,dom,Vitória,BA,0,1,Palmeiras,SP,Vitória BA - 0,Palmeiras SP - 1,1
+13,2ª,21:30,Bahia                            BA  2  x  1  Fluminense                  RJ,Arena Fonte Nova,Salvador,BA,16/04,ter,Bahia,BA,2,1,Fluminense,RJ,Bahia BA - 2,Fluminense RJ - 1,2
+11,2ª,19:00,Grêmio                          RS  2  x  0  Athletico                       PR,Arena do Grêmio,Porto Alegre,RS,17/04,qua,Grêmio,RS,2,0,Athletico,PR,Grêmio RS - 2,Athletico PR - 0,2
+17,2ª,19:00,Red Bull Bragantino     SP  2  x  1  Vasco da Gama           RJ,Nabi Abi Chedid,Bragança Paulista,SP,17/04,qua,Red Bull Bragantino,SP,2,1,Vasco da Gama,RJ,Red Bull Bragantino SP - 2,Vasco da Gama RJ - 1,2
+12,2ª,20:00,Atlético                          MG 1  x  1  Criciúma                       SC,Arena MRV,Belo Horizonte,MG,17/04,qua,Atlético,MG,1,1,Criciúma,SC,Atlético MG - 1,Criciúma SC - 1,2
+18,2ª,20:00,Fortaleza                      CE  1  x  1  Cruzeiro                       MG,Arena Castelão,Fortaleza,CE,17/04,qua,Fortaleza,CE,1,1,Cruzeiro,MG,Fortaleza CE - 1,Cruzeiro MG - 1,2
+20,2ª,20:00,Juventude                     RS  2  x  0  Corinthians                   SP,Alfredo Jaconi,Caxias do Sul,RS,17/04,qua,Juventude,RS,2,0,Corinthians,SP,Juventude RS - 2,Corinthians SP - 0,2
+16,2ª,20:00,Palmeiras                     SP  0  x  1  Internacional                RS,Arena Barueri,Barueri,SP,17/04,qua,Palmeiras,SP,0,1,Internacional,RS,Palmeiras SP - 0,Internacional RS - 1,2
+14,2ª,21:30,Flamengo                     RJ  2  x  1  São Paulo                    SP,Maracanã,Rio de Janeiro,RJ,17/04,qua,Flamengo,RJ,2,1,São Paulo,SP,Flamengo RJ - 2,São Paulo SP - 1,2
+15,2ª,21:30,Botafogo                       RJ  1  x  0  Atlético                         GO,Nilton Santos,Rio de Janeiro,RJ,18/04,qui,Botafogo,RJ,1,0,Atlético,GO,Botafogo RJ - 1,Atlético GO - 0,2
+19,2ª,20:00,Cuiabá                          MT  0  x  0  Vitória                           BA,Arena Pantanal,Cuiabá,MT,05/06,qua,Cuiabá,MT,0,0,Vitória,BA,Cuiabá MT - 0,Vitória BA - 0,2
+24,3ª,16:00,Fluminense                   RJ  2  x  1  Vasco da Gama           RJ,Maracanã,Rio de Janeiro,RJ,2025-04-20 00:00:00,sab,Fluminense,RJ,2,1,Vasco da Gama,RJ,Fluminense RJ - 2,Vasco da Gama RJ - 1,3
+21,3ª,18:30,Grêmio                          RS  1  x  0  Cuiabá                          MT,Arena do Grêmio,Porto Alegre,RS,2025-04-20 00:00:00,sab,Grêmio,RS,1,0,Cuiabá,MT,Grêmio RS - 1,Cuiabá MT - 0,3
+27,3ª,18:30,Red Bull Bragantino     SP  1  x  0  Corinthians                   SP,Nabi Abi Chedid,Bragança Paulista,SP,2025-04-20 00:00:00,sab,Red Bull Bragantino,SP,1,0,Corinthians,SP,Red Bull Bragantino SP - 1,Corinthians SP - 0,3
+22,3ª,21:00,Atlético                          MG 3  x  0  Cruzeiro                       MG,Arena MRV,Belo Horizonte,MG,2025-04-20 00:00:00,sab,Atlético,MG,3,0,Cruzeiro,MG,Atlético MG - 3,Cruzeiro MG - 0,3
+23,3ª,16:00,Vitória                           BA  2  x  2  Bahia                            BA,Manoel Barradas,Salvador,BA,21/04,dom,Vitória,BA,2,2,Bahia,BA,Vitória BA - 2,Bahia BA - 2,3
+26,3ª,16:00,Palmeiras                     SP  0  x  0  Flamengo                     RJ,Allianz Parque,São Paulo,SP,21/04,dom,Palmeiras,SP,0,0,Flamengo,RJ,Palmeiras SP - 0,Flamengo RJ - 0,3
+28,3ª,16:00,Athletico                       PR  1  x  0  Internacional                RS,Ligga Arena,Curitiba,PR,21/04,dom,Athletico,PR,1,0,Internacional,RS,Athletico PR - 1,Internacional RS - 0,3
+25,3ª,18:30,Botafogo                       RJ  5  x  1  Juventude                    RS,Nilton Santos,Rio de Janeiro,RJ,21/04,dom,Botafogo,RJ,5,1,Juventude,RS,Botafogo RJ - 5,Juventude RS - 1,3
+29,3ª,18:30,Atlético                          GO 0  x  3  São Paulo                    SP,Antônio Accioly,Goiânia,GO,21/04,dom,Atlético,GO,0,3,São Paulo,SP,Atlético GO - 0,São Paulo SP - 3,3
+30,3ª,19:00,Criciúma                       SC  1  x  1  Fortaleza                      CE,Heriberto Hulse,Criciúma,SC,24/07,qua,Criciúma,SC,1,1,Fortaleza,CE,Criciúma SC - 1,Fortaleza CE - 1,3
+35,4ª,16:00,Vasco da Gama           RJ  0  x  4  Criciúma                       SC,São Januário,Rio de Janeiro,RJ,2025-04-27 00:00:00,sab,Vasco da Gama,RJ,0,4,Criciúma,SC,Vasco da Gama RJ - 0,Criciúma SC - 4,4
+39,4ª,18:30,Cuiabá                          MT  0  x  3  Atlético                         MG,Arena Pantanal,Cuiabá,MT,2025-04-27 00:00:00,sab,Cuiabá,MT,0,3,Atlético,MG,Cuiabá MT - 0,Atlético MG - 3,4
+33,4ª,21:00,Bahia                            BA  1  x  0  Grêmio                         RS,Arena Fonte Nova,Salvador,BA,2025-04-27 00:00:00,sab,Bahia,BA,1,0,Grêmio,RS,Bahia BA - 1,Grêmio RS - 0,4
+34,4ª,11:00,Flamengo                     RJ  0  x  2  Botafogo                      RJ,Maracanã,Rio de Janeiro,RJ,28/04,dom,Flamengo,RJ,0,2,Botafogo,RJ,Flamengo RJ - 0,Botafogo RJ - 2,4
+32,4ª,16:00,Cruzeiro                        MG 3  x  1  Vitória                           BA,Mineirão,Belo Horizonte,MG,28/04,dom,Cruzeiro,MG,3,1,Vitória,BA,Cruzeiro MG - 3,Vitória BA - 1,4
+36,4ª,16:00,Corinthians                   SP  3  x  0  Fluminense                  RJ,Neo Química Arena,São Paulo,SP,28/04,dom,Corinthians,SP,3,0,Fluminense,RJ,Corinthians SP - 3,Fluminense RJ - 0,4
+38,4ª,18:30,Fortaleza                      CE  1  x  1  Red Bull Bragantino    SP,Arena Castelão,Fortaleza,CE,28/04,dom,Fortaleza,CE,1,1,Red Bull Bragantino,SP,Fortaleza CE - 1,Red Bull Bragantino SP - 1,4
+40,4ª,18:30,Juventude                     RS  1  x  1  Athletico                       PR,Alfredo Jaconi,Caxias do Sul,RS,28/04,dom,Juventude,RS,1,1,Athletico,PR,Juventude RS - 1,Athletico PR - 1,4
+31,4ª,20:00,Internacional                 RS  1  x  1  Atlético                         GO,Beira-Rio,Porto Alegre,RS,28/04,dom,Internacional,RS,1,1,Atlético,GO,Internacional RS - 1,Atlético GO - 1,4
+37,4ª,20:00,São Paulo                     SP  0  x  0  Palmeiras                     SP,Morumbis,São Paulo,SP,29/04,seg,São Paulo,SP,0,0,Palmeiras,SP,São Paulo SP - 0,Palmeiras SP - 0,4
+44,5ª,16:00,Fluminense                   RJ  2  x  2  Atlético                         MG,Kleber Andrade,Cariacica,ES,2025-05-04 00:00:00,sab,Fluminense,RJ,2,2,Atlético,MG,Fluminense RJ - 2,Atlético MG - 2,5
+47,5ª,18:30,Red Bull Bragantino     SP  1  x  1  Flamengo                     RJ,Nabi Abi Chedid,Bragança Paulista,SP,2025-05-04 00:00:00,sab,Red Bull Bragantino,SP,1,1,Flamengo,RJ,Red Bull Bragantino SP - 1,Flamengo RJ - 1,5
+46,5ª,21:00,Corinthians                   SP  0  x  0  Fortaleza                      CE,Neo Química Arena,São Paulo,SP,2025-05-04 00:00:00,sab,Corinthians,SP,0,0,Fortaleza,CE,Corinthians SP - 0,Fortaleza CE - 0,5
+43,5ª,16:00,Vitória                           BA  1  x  3  São Paulo                    SP,Manoel Barradas,Salvador,BA,05/05,dom,Vitória,BA,1,3,São Paulo,SP,Vitória BA - 1,São Paulo SP - 3,5
+48,5ª,16:00,Athletico                       PR  1  x  0  Vasco da Gama           RJ,Ligga Arena,Curitiba,PR,05/05,dom,Athletico,PR,1,0,Vasco da Gama,RJ,Athletico PR - 1,Vasco da Gama RJ - 0,5
+45,5ª,18:30,Botafogo                       RJ  1  x  2  Bahia                            BA,Nilton Santos,Rio de Janeiro,RJ,05/05,dom,Botafogo,RJ,1,2,Bahia,BA,Botafogo RJ - 1,Bahia BA - 2,5
+49,5ª,18:30,Cuiabá                          MT  0  x  2  Palmeiras                     SP,Arena Pantanal,Cuiabá,MT,05/05,dom,Cuiabá,MT,0,2,Palmeiras,SP,Cuiabá MT - 0,Palmeiras SP - 2,5
+50,5ª,19:00,Juventude                     RS  1  x  0  Atlético                         GO,Alfredo Jaconi,Caxias do Sul,RS,05/06,qua,Juventude,RS,1,0,Atlético,GO,Juventude RS - 1,Atlético GO - 0,5
+42,5ª,19:30,Cruzeiro                        MG 0  x  0  Internacional                RS,Mineirão,Belo Horizonte,MG,28/08,qua,Cruzeiro,MG,0,0,Internacional,RS,Cruzeiro MG - 0,Internacional RS - 0,5
+41,5ª,19:00,Grêmio                          RS  1  x  2  Criciúma                       SC,Arena do Grêmio,Porto Alegre,RS,25/09,qua,Grêmio,RS,1,2,Criciúma,SC,Grêmio RS - 1,Criciúma SC - 2,5
+54,6ª,16:00,Flamengo                     RJ  2  x  0  Corinthians                   SP,Maracanã,Rio de Janeiro,RJ,2025-09-11 00:00:00,sab,Flamengo,RJ,2,0,Corinthians,SP,Flamengo RJ - 2,Corinthians SP - 0,6
+59,6ª,16:00,Atlético                          GO 0  x  1  Cruzeiro                       MG,Antônio Accioly,Goiânia,GO,12/05,dom,Atlético,GO,0,1,Cruzeiro,MG,Atlético GO - 0,Cruzeiro MG - 1,6
+56,6ª,16:00,Palmeiras                     SP  0  x  2  Athletico                       PR,Arena Barueri,Barueri,SP,12/05,dom,Palmeiras,SP,0,2,Athletico,PR,Palmeiras SP - 0,Athletico PR - 2,6
+58,6ª,16:00,Fortaleza                      CE  1  x  1  Botafogo                      RJ,Arena Castelão,Fortaleza,CE,12/05,dom,Fortaleza,CE,1,1,Botafogo,RJ,Fortaleza CE - 1,Botafogo RJ - 1,6
+55,6ª,18:30,Vasco da Gama           RJ  2  x  1  Vitória                           BA,São Januário,Rio de Janeiro,RJ,12/05,dom,Vasco da Gama,RJ,2,1,Vitória,BA,Vasco da Gama RJ - 2,Vitória BA - 1,6
+53,6ª,18:30,Bahia                            BA  1  x  0  Red Bull Bragantino    SP,Arena Fonte Nova,Salvador,BA,12/05,dom,Bahia,BA,1,0,Red Bull Bragantino,SP,Bahia BA - 1,Red Bull Bragantino SP - 0,6
+57,6ª,20:00,São Paulo                     SP  2  x  1  Fluminense                  RJ,Morumbis,São Paulo,SP,13/05,seg,São Paulo,SP,2,1,Fluminense,RJ,São Paulo SP - 2,Fluminense RJ - 1,6
+60,6ª,16:00,Criciúma                       SC  2  x  5  Cuiabá                          MT,Heriberto Hulse,Criciúma,SC,09/06,dom,Criciúma,SC,2,5,Cuiabá,MT,Criciúma SC - 2,Cuiabá MT - 5,6
+51,6ª,19:30,Internacional                 RS  2  x  1  Juventude                    RS,Beira-Rio,Porto Alegre,RS,14/08,qua,Internacional,RS,2,1,Juventude,RS,Internacional RS - 2,Juventude RS - 1,6
+52,6ª,19:30,Atlético                          MG 2  x  1  Grêmio                         RS,Arena MRV,Belo Horizonte,MG,09/10,qua,Atlético,MG,2,1,Grêmio,RS,Atlético MG - 2,Grêmio RS - 1,6
+61,7ª,16:00,Grêmio                          RS  0  x  2  Red Bull Bragantino    SP,Couto Pereira,Curitiba,PR,2025-06-01 00:00:00,sab,Grêmio,RS,0,2,Red Bull Bragantino,SP,Grêmio RS - 0,Red Bull Bragantino SP - 2,7
+63,7ª,16:00,Vitória                           BA  0  x  2  Atlético                         GO,Manoel Barradas,Salvador,BA,2025-06-01 00:00:00,sab,Vitória,BA,0,2,Atlético,GO,Vitória BA - 0,Atlético GO - 2,7
+64,7ª,18:30,Fluminense                   RJ  1  x  1  Juventude                    RS,Maracanã,Rio de Janeiro,RJ,2025-06-01 00:00:00,sab,Fluminense,RJ,1,1,Juventude,RS,Fluminense RJ - 1,Juventude RS - 1,7
+69,7ª,18:30,Cuiabá                          MT  0  x  1  Internacional                RS,Arena Pantanal,Cuiabá,MT,2025-06-01 00:00:00,sab,Cuiabá,MT,0,1,Internacional,RS,Cuiabá MT - 0,Internacional RS - 1,7
+66,7ª,21:00,Corinthians                   SP  0  x  1  Botafogo                      RJ,Neo Química Arena,São Paulo,SP,2025-06-01 00:00:00,sab,Corinthians,SP,0,1,Botafogo,RJ,Corinthians SP - 0,Botafogo RJ - 1,7
+62,7ª,16:00,Atlético                          MG 1  x  1  Bahia                            BA,Arena MRV,Belo Horizonte,MG,02/06,dom,Atlético,MG,1,1,Bahia,BA,Atlético MG - 1,Bahia BA - 1,7
+65,7ª,16:00,Vasco da Gama           RJ  1  x  6  Flamengo                     RJ,Maracanã,Rio de Janeiro,RJ,02/06,dom,Vasco da Gama,RJ,1,6,Flamengo,RJ,Vasco da Gama RJ - 1,Flamengo RJ - 6,7
+70,7ª,16:00,Criciúma                       SC  1  x  2  Palmeiras                     SP,Heriberto Hulse,Criciúma,SC,02/06,dom,Criciúma,SC,1,2,Palmeiras,SP,Criciúma SC - 1,Palmeiras SP - 2,7
+67,7ª,18:30,São Paulo                     SP  2  x  0  Cruzeiro                       MG,Morumbis,São Paulo,SP,02/06,dom,São Paulo,SP,2,0,Cruzeiro,MG,São Paulo SP - 2,Cruzeiro MG - 0,7
+68,7ª,18:30,Fortaleza                      CE  1  x  0  Athletico                       PR,Presidente Vargas,Fortaleza,CE,02/06,dom,Fortaleza,CE,1,0,Athletico,PR,Fortaleza CE - 1,Athletico PR - 0,7
+79,8ª,19:00,Atlético                          GO 2  x  2  Corinthians                   SP,Antônio Accioly,Goiânia,GO,11/06,ter,Atlético,GO,2,2,Corinthians,SP,Atlético GO - 2,Corinthians SP - 2,8
+80,8ª,19:00,Juventude                     RS  1  x  1  Vitória                           BA,Alfredo Jaconi,Caxias do Sul,RS,11/06,ter,Juventude,RS,1,1,Vitória,BA,Juventude RS - 1,Vitória BA - 1,8
+75,8ª,20:00,Botafogo                       RJ  1  x  0  Fluminense                  RJ,Nilton Santos,Rio de Janeiro,RJ,11/06,ter,Botafogo,RJ,1,0,Fluminense,RJ,Botafogo RJ - 1,Fluminense RJ - 0,8
+77,8ª,21:30,Red Bull Bragantino     SP  1  x  2  Atlético                         MG,Nabi Abi Chedid,Bragança Paulista,SP,11/06,ter,Red Bull Bragantino,SP,1,2,Atlético,MG,Red Bull Bragantino SP - 1,Atlético MG - 2,8
+72,8ª,19:00,Cruzeiro                        MG 2  x  1  Cuiabá                          MT,Mineirão,Belo Horizonte,MG,13/06,qui,Cruzeiro,MG,2,1,Cuiabá,MT,Cruzeiro MG - 2,Cuiabá MT - 1,8
+71,8ª,20:00,Internacional                 RS  0  x  0  São Paulo                    SP,Heriberto Hulse,Criciúma,SC,13/06,qui,Internacional,RS,0,0,São Paulo,SP,Internacional RS - 0,São Paulo SP - 0,8
+74,8ª,20:00,Flamengo                     RJ  2  x  1  Grêmio                         RS,Maracanã,Rio de Janeiro,RJ,13/06,qui,Flamengo,RJ,2,1,Grêmio,RS,Flamengo RJ - 2,Grêmio RS - 1,8
+78,8ª,20:00,Athletico                       PR  3  x  1  Criciúma                       SC,Ligga Arena,Curitiba,PR,13/06,qui,Athletico,PR,3,1,Criciúma,SC,Athletico PR - 3,Criciúma SC - 1,8
+73,8ª,21:30,Bahia                            BA  1  x  0  Fortaleza                      CE,Arena Fonte Nova,Salvador,BA,13/06,qui,Bahia,BA,1,0,Fortaleza,CE,Bahia BA - 1,Fortaleza CE - 0,8
+76,8ª,21:30,Palmeiras                     SP  2  x  0  Vasco da Gama           RJ,Allianz Parque,São Paulo,SP,13/06,qui,Palmeiras,SP,2,0,Vasco da Gama,RJ,Palmeiras SP - 2,Vasco da Gama RJ - 0,8
+87,9ª,18:30,Red Bull Bragantino     SP  2  x  1  Juventude                    RS,Nabi Abi Chedid,Bragança Paulista,SP,2025-06-15 00:00:00,sab,Red Bull Bragantino,SP,2,1,Juventude,RS,Red Bull Bragantino SP - 2,Juventude RS - 1,9
+84,9ª,21:00,Fluminense                   RJ  1  x  2  Atlético                         GO,Maracanã,Rio de Janeiro,RJ,2025-06-15 00:00:00,sab,Fluminense,RJ,1,2,Atlético,GO,Fluminense RJ - 1,Atlético GO - 2,9
+83,9ª,16:00,Vitória                           BA  2  x  1  Internacional                RS,Manoel Barradas,Salvador,BA,16/06,dom,Vitória,BA,2,1,Internacional,RS,Vitória BA - 2,Internacional RS - 1,9
+86,9ª,16:00,Corinthians                   SP  2  x  2  São Paulo                    SP,Neo Química Arena,São Paulo,SP,16/06,dom,Corinthians,SP,2,2,São Paulo,SP,Corinthians SP - 2,São Paulo SP - 2,9
+88,9ª,16:00,Athletico                       PR  1  x  1  Flamengo                     RJ,Ligga Arena,Curitiba,PR,16/06,dom,Athletico,PR,1,1,Flamengo,RJ,Athletico PR - 1,Flamengo RJ - 1,9
+81,9ª,18:30,Grêmio                          RS  1  x  2  Botafogo                      RJ,Kleber Andrade,Cariacica,ES,16/06,dom,Grêmio,RS,1,2,Botafogo,RJ,Grêmio RS - 1,Botafogo RJ - 2,9
+85,9ª,18:30,Vasco da Gama           RJ  0  x  0  Cruzeiro                       MG,São Januário,Rio de Janeiro,RJ,16/06,dom,Vasco da Gama,RJ,0,0,Cruzeiro,MG,Vasco da Gama RJ - 0,Cruzeiro MG - 0,9
+89,9ª,18:30,Cuiabá                          MT  5  x  0  Fortaleza                      CE,Arena Pantanal,Cuiabá,MT,16/06,dom,Cuiabá,MT,5,0,Fortaleza,CE,Cuiabá MT - 5,Fortaleza CE - 0,9
+90,9ª,18:30,Criciúma                       SC  2  x  2  Bahia                            BA,Heriberto Hulse,Criciúma,SC,16/06,dom,Criciúma,SC,2,2,Bahia,BA,Criciúma SC - 2,Bahia BA - 2,9
+82,9ª,20:30,Atlético                          MG 0  x  4  Palmeiras                     SP,Arena MRV,Belo Horizonte,MG,17/06,seg,Atlético,MG,0,4,Palmeiras,SP,Atlético MG - 0,Palmeiras SP - 4,9
+95,10º,19:00,Botafogo                       RJ  1  x  1  Athletico                       PR,Nilton Santos,Rio de Janeiro,RJ,19/06,qua,Botafogo,RJ,1,1,Athletico,PR,Botafogo RJ - 1,Athletico PR - 1,10
+99,10º,19:00,Atlético                          GO 1  x  2  Criciúma                       SC,Antônio Accioly,Goiânia,GO,19/06,qua,Atlético,GO,1,2,Criciúma,SC,Atlético GO - 1,Criciúma SC - 2,10
+97,10º,20:00,São Paulo                     SP  0  x  1  Cuiabá                          MT,Morumbis,São Paulo,SP,19/06,qua,São Paulo,SP,0,1,Cuiabá,MT,São Paulo SP - 0,Cuiabá MT - 1,10
+100,10º,20:00,Juventude                     RS  2  x  0  Vasco da Gama           RJ,Alfredo Jaconi,Caxias do Sul,RS,19/06,qua,Juventude,RS,2,0,Vasco da Gama,RJ,Juventude RS - 2,Vasco da Gama RJ - 0,10
+98,10º,20:00,Fortaleza                      CE  1  x  0  Grêmio                         RS,Arena Castelão,Fortaleza,CE,19/06,qua,Fortaleza,CE,1,0,Grêmio,RS,Fortaleza CE - 1,Grêmio RS - 0,10
+91,10º,21:30,Internacional                 RS  1  x  0  Corinthians                   SP,Orlando Scarpelli,Florianópolis,SC,19/06,qua,Internacional,RS,1,0,Corinthians,SP,Internacional RS - 1,Corinthians SP - 0,10
+92,10º,21:30,Cruzeiro                        MG 2  x  0  Fluminense                  RJ,Mineirão,Belo Horizonte,MG,19/06,qua,Cruzeiro,MG,2,0,Fluminense,RJ,Cruzeiro MG - 2,Fluminense RJ - 0,10
+93,10º,18:30,Vitória                           BA  4  x  2  Atlético                         MG,Manoel Barradas,Salvador,BA,20/06,qui,Vitória,BA,4,2,Atlético,MG,Vitória BA - 4,Atlético MG - 2,10
+94,10º,20:00,Flamengo                     RJ  2  x  1  Bahia                            BA,Maracanã,Rio de Janeiro,RJ,20/06,qui,Flamengo,RJ,2,1,Bahia,BA,Flamengo RJ - 2,Bahia BA - 1,10
+96,10º,21:30,Palmeiras                     SP  2  x  1  Red Bull Bragantino    SP,Allianz Parque,São Paulo,SP,20/06,qui,Palmeiras,SP,2,1,Red Bull Bragantino,SP,Palmeiras SP - 2,Red Bull Bragantino SP - 1,10
+110,11ª,16:00,Criciúma                       SC  2  x  1  Botafogo                      RJ,Heriberto Hulse,Criciúma,SC,2025-06-22 00:00:00,sab,Criciúma,SC,2,1,Botafogo,RJ,Criciúma SC - 2,Botafogo RJ - 1,11
+101,11ª,17:30,Grêmio                          RS  0  x  1  Internacional                RS,Couto Pereira,Curitiba,PR,2025-06-22 00:00:00,sab,Grêmio,RS,0,1,Internacional,RS,Grêmio RS - 0,Internacional RS - 1,11
+109,11ª,18:30,Cuiabá                          MT  0  x  0  Atlético                         GO,Arena Pantanal,Cuiabá,MT,2025-06-22 00:00:00,sab,Cuiabá,MT,0,0,Atlético,GO,Cuiabá MT - 0,Atlético GO - 0,11
+105,11ª,21:30,Vasco da Gama           RJ  4  x  1  São Paulo                    SP,São Januário,Rio de Janeiro,RJ,2025-06-22 00:00:00,sab,Vasco da Gama,RJ,4,1,São Paulo,SP,Vasco da Gama RJ - 4,São Paulo SP - 1,11
+104,11ª,16:00,Fluminense                   RJ  0  x  1  Flamengo                     RJ,Maracanã,Rio de Janeiro,RJ,23/06,dom,Fluminense,RJ,0,1,Flamengo,RJ,Fluminense RJ - 0,Flamengo RJ - 1,11
+108,11ª,16:00,Athletico                       PR  1  x  1  Corinthians                   SP,Ligga Arena,Curitiba,PR,23/06,dom,Athletico,PR,1,1,Corinthians,SP,Athletico PR - 1,Corinthians SP - 1,11
+103,11ª,16:00,Bahia                            BA  4  x  1  Cruzeiro                       MG,Arena Fonte Nova,Salvador,BA,23/06,dom,Bahia,BA,4,1,Cruzeiro,MG,Bahia BA - 4,Cruzeiro MG - 1,11
+102,11ª,18:30,Atlético                          MG 1  x  1  Fortaleza                      CE,Arena MRV,Belo Horizonte,MG,23/06,dom,Atlético,MG,1,1,Fortaleza,CE,Atlético MG - 1,Fortaleza CE - 1,11
+106,11ª,18:30,Palmeiras                     SP  3  x  1  Juventude                    RS,Allianz Parque,São Paulo,SP,23/06,dom,Palmeiras,SP,3,1,Juventude,RS,Palmeiras SP - 3,Juventude RS - 1,11
+107,11ª,18:30,Red Bull Bragantino     SP  2  x  1  Vitória                           BA,Nabi Abi Chedid,Bragança Paulista,SP,23/06,dom,Red Bull Bragantino,SP,2,1,Vitória,BA,Red Bull Bragantino SP - 2,Vitória BA - 1,11
+112,12ª,19:00,Cruzeiro                        MG 2  x  0  Athletico                       PR,Mineirão,Belo Horizonte,MG,26/06,qua,Cruzeiro,MG,2,0,Athletico,PR,Cruzeiro MG - 2,Athletico PR - 0,12
+115,12ª,19:00,Botafogo                       RJ  2  x  1  Red Bull Bragantino    SP,Nilton Santos,Rio de Janeiro,RJ,26/06,qua,Botafogo,RJ,2,1,Red Bull Bragantino,SP,Botafogo RJ - 2,Red Bull Bragantino SP - 1,12
+116,12ª,20:00,Corinthians                   SP  1  x  1  Cuiabá                          MT,Neo Química Arena,São Paulo,SP,26/06,qua,Corinthians,SP,1,1,Cuiabá,MT,Corinthians SP - 1,Cuiabá MT - 1,12
+120,12ª,20:00,Juventude                     RS  2  x  1  Flamengo                     RJ,Alfredo Jaconi,Caxias do Sul,RS,26/06,qua,Juventude,RS,2,1,Flamengo,RJ,Juventude RS - 2,Flamengo RJ - 1,12
+119,12ª,20:00,Atlético                          GO 1  x  1  Grêmio                         RS,Antônio Accioly,Goiânia,GO,26/06,qua,Atlético,GO,1,1,Grêmio,RS,Atlético GO - 1,Grêmio RS - 1,12
+111,12ª,21:30,Internacional                 RS  1  x  2  Atlético                         MG,Heriberto Hulse,Criciúma,SC,26/06,qua,Internacional,RS,1,2,Atlético,MG,Internacional RS - 1,Atlético MG - 2,12
+113,12ª,21:30,Bahia                            BA  2  x  1  Vasco da Gama           RJ,Arena Fonte Nova,Salvador,BA,26/06,qua,Bahia,BA,2,1,Vasco da Gama,RJ,Bahia BA - 2,Vasco da Gama RJ - 1,12
+118,12ª,21:30,Fortaleza                      CE  3  x  0  Palmeiras                     SP,Arena Castelão,Fortaleza,CE,26/06,qua,Fortaleza,CE,3,0,Palmeiras,SP,Fortaleza CE - 3,Palmeiras SP - 0,12
+114,12ª,19:00,Fluminense                   RJ  0  x  1  Vitória                           BA,Maracanã,Rio de Janeiro,RJ,27/06,qui,Fluminense,RJ,0,1,Vitória,BA,Fluminense RJ - 0,Vitória BA - 1,12
+117,12ª,20:00,São Paulo                     SP  2  x  1  Criciúma                       SC,Morumbis,São Paulo,SP,27/06,qui,São Paulo,SP,2,1,Criciúma,SC,São Paulo SP - 2,Criciúma SC - 1,12
+129,13ª,18:30,Cuiabá                          MT  1  x  1  Red Bull Bragantino    SP,Arena Pantanal,Cuiabá,MT,2025-06-29 00:00:00,sab,Cuiabá,MT,1,1,Red Bull Bragantino,SP,Cuiabá MT - 1,Red Bull Bragantino SP - 1,13
+125,13ª,18:30,Vasco da Gama           RJ  1  x  1  Botafogo                      RJ,São Januário,Rio de Janeiro,RJ,2025-06-29 00:00:00,sab,Vasco da Gama,RJ,1,1,Botafogo,RJ,Vasco da Gama RJ - 1,Botafogo RJ - 1,13
+122,13ª,11:00,Atlético                          MG 1  x  1  Atlético                         GO,Arena MRV,Belo Horizonte,MG,30/06,dom,Atlético,MG,1,1,Atlético,GO,Atlético MG - 1,Atlético GO - 1,13
+121,13ª,16:00,Grêmio                          RS  1  x  0  Fluminense                  RJ,Centenário,Caxias do Sul,RS,30/06,dom,Grêmio,RS,1,0,Fluminense,RJ,Grêmio RS - 1,Fluminense RJ - 0,13
+127,13ª,16:00,São Paulo                     SP  3  x  1  Bahia                            BA,Morumbis,São Paulo,SP,30/06,dom,São Paulo,SP,3,1,Bahia,BA,São Paulo SP - 3,Bahia BA - 1,13
+128,13ª,16:00,Fortaleza                      CE  2  x  1  Juventude                    RS,Arena Castelão,Fortaleza,CE,30/06,dom,Fortaleza,CE,2,1,Juventude,RS,Fortaleza CE - 2,Juventude RS - 1,13
+123,13ª,18:30,Vitória                           BA  0  x  1  Athletico                       PR,Manoel Barradas,Salvador,BA,30/06,dom,Vitória,BA,0,1,Athletico,PR,Vitória BA - 0,Athletico PR - 1,13
+124,13ª,18:30,Flamengo                     RJ  2  x  1  Cruzeiro                       MG,Maracanã,Rio de Janeiro,RJ,30/06,dom,Flamengo,RJ,2,1,Cruzeiro,MG,Flamengo RJ - 2,Cruzeiro MG - 1,13
+130,13ª,18:30,Criciúma                       SC  1  x  1  Internacional                RS,Heriberto Hulse,Criciúma,SC,30/06,dom,Criciúma,SC,1,1,Internacional,RS,Criciúma SC - 1,Internacional RS - 1,13
+126,13ª,20:00,Palmeiras                     SP  2  x  0  Corinthians                   SP,Allianz Parque,São Paulo,SP,01/07,seg,Palmeiras,SP,2,0,Corinthians,SP,Palmeiras SP - 2,Corinthians SP - 0,13
+139,14ª,19:00,Cuiabá                          MT  1  x  2  Botafogo                      RJ,Arena Pantanal,Cuiabá,MT,03/07,qua,Cuiabá,MT,1,2,Botafogo,RJ,Cuiabá MT - 1,Botafogo RJ - 2,14
+135,14ª,20:00,Vasco da Gama           RJ  2  x  0  Fortaleza                      CE,São Januário,Rio de Janeiro,RJ,03/07,qua,Vasco da Gama,RJ,2,0,Fortaleza,CE,Vasco da Gama RJ - 2,Fortaleza CE - 0,14
+140,14ª,20:00,Criciúma                       SC  1  x  0  Cruzeiro                       MG,Heriberto Hulse,Criciúma,SC,03/07,qua,Criciúma,SC,1,0,Cruzeiro,MG,Criciúma SC - 1,Cruzeiro MG - 0,14
+137,14ª,21:30,Red Bull Bragantino     SP  3  x  1  Atlético                         GO,Nabi Abi Chedid,Bragança Paulista,SP,03/07,qua,Red Bull Bragantino,SP,3,1,Atlético,GO,Red Bull Bragantino SP - 3,Atlético GO - 1,14
+132,14ª,21:30,Atlético                          MG 2  x  4  Flamengo                     RJ,Arena MRV,Belo Horizonte,MG,03/07,qua,Atlético,MG,2,4,Flamengo,RJ,Atlético MG - 2,Flamengo RJ - 4,14
+138,14ª,21:30,Athletico                       PR  1  x  2  São Paulo                    SP,Ligga Arena,Curitiba,PR,03/07,qua,Athletico,PR,1,2,São Paulo,SP,Athletico PR - 1,São Paulo SP - 2,14
+131,14ª,19:00,Grêmio                          RS  2  x  2  Palmeiras                     SP,Centenário,Caxias do Sul,RS,04/07,qui,Grêmio,RS,2,2,Palmeiras,SP,Grêmio RS - 2,Palmeiras SP - 2,14
+133,14ª,19:00,Bahia                            BA  2  x  0  Juventude                    RS,Arena Fonte Nova,Salvador,BA,04/07,qui,Bahia,BA,2,0,Juventude,RS,Bahia BA - 2,Juventude RS - 0,14
+136,14ª,20:00,Corinthians                   SP  3  x  2  Vitória                           BA,Neo Química Arena,São Paulo,SP,04/07,qui,Corinthians,SP,3,2,Vitória,BA,Corinthians SP - 3,Vitória BA - 2,14
+134,14ª,20:00,Fluminense                   RJ  1  x  1  Internacional                RS,Maracanã,Rio de Janeiro,RJ,04/07,qui,Fluminense,RJ,1,1,Internacional,RS,Fluminense RJ - 1,Internacional RS - 1,14
+144,15ª,20:00,Flamengo                     RJ  1  x  1  Cuiabá                          MT,Maracanã,Rio de Janeiro,RJ,2025-07-10 00:00:00,sab,Flamengo,RJ,1,1,Cuiabá,MT,Flamengo RJ - 1,Cuiabá MT - 1,15
+147,15ª,20:00,São Paulo                     SP  2  x  0  Red Bull Bragantino    SP,Morumbis,São Paulo,SP,2025-07-10 00:00:00,sab,São Paulo,SP,2,0,Red Bull Bragantino,SP,São Paulo SP - 2,Red Bull Bragantino SP - 0,15
+142,15ª,16:00,Cruzeiro                        MG 3  x  0  Corinthians                   SP,Mineirão,Belo Horizonte,MG,07/07,dom,Cruzeiro,MG,3,0,Corinthians,SP,Cruzeiro MG - 3,Corinthians SP - 0,15
+150,15ª,16:00,Juventude                     RS  3  x  0  Grêmio                         RS,Alfredo Jaconi,Caxias do Sul,RS,07/07,dom,Juventude,RS,3,0,Grêmio,RS,Juventude RS - 3,Grêmio RS - 0,15
+148,15ª,16:00,Fortaleza                      CE  1  x  0  Fluminense                  RJ,Arena Castelão,Fortaleza,CE,07/07,dom,Fortaleza,CE,1,0,Fluminense,RJ,Fortaleza CE - 1,Fluminense RJ - 0,15
+141,15ª,18:00,Internacional                 RS  1  x  2  Vasco da Gama           RJ,Beira-Rio,Porto Alegre,RS,07/07,dom,Internacional,RS,1,2,Vasco da Gama,RJ,Internacional RS - 1,Vasco da Gama RJ - 2,15
+143,15ª,18:30,Vitória                           BA  2  x  1  Criciúma                       SC,Manoel Barradas,Salvador,BA,07/07,dom,Vitória,BA,2,1,Criciúma,SC,Vitória BA - 2,Criciúma SC - 1,15
+146,15ª,18:30,Palmeiras                     SP  2  x  0  Bahia                            BA,Allianz Parque,São Paulo,SP,07/07,dom,Palmeiras,SP,2,0,Bahia,BA,Palmeiras SP - 2,Bahia BA - 0,15
+149,15ª,18:30,Atlético                          GO 1  x  2  Athletico                       PR,Antônio Accioly,Goiânia,GO,07/07,dom,Atlético,GO,1,2,Athletico,PR,Atlético GO - 1,Athletico PR - 2,15
+145,15ª,20:30,Botafogo                       RJ  3  x  0  Atlético                         MG,Nilton Santos,Rio de Janeiro,RJ,07/07,dom,Botafogo,RJ,3,0,Atlético,MG,Botafogo RJ - 3,Atlético MG - 0,15
+151,16ª,18:30,Grêmio                          RS  0  x  2  Cruzeiro                       MG,Centenário,Caxias do Sul,RS,10/07,qua,Grêmio,RS,0,2,Cruzeiro,MG,Grêmio RS - 0,Cruzeiro MG - 2,16
+155,16ª,19:00,Vasco da Gama           RJ  2  x  0  Corinthians                   SP,São Januário,Rio de Janeiro,RJ,10/07,qua,Vasco da Gama,RJ,2,0,Corinthians,SP,Vasco da Gama RJ - 2,Corinthians SP - 0,16
+158,16ª,19:00,Athletico                       PR  1  x  3  Bahia                            BA,Ligga Arena,Curitiba,PR,10/07,qua,Athletico,PR,1,3,Bahia,BA,Athletico PR - 1,Bahia BA - 3,16
+156,16ª,19:30,Palmeiras                     SP  3  x  1  Atlético                         GO,Allianz Parque,São Paulo,SP,11/07,qui,Palmeiras,SP,3,1,Atlético,GO,Palmeiras SP - 3,Atlético GO - 1,16
+154,16ª,20:00,Flamengo                     RJ  1  x  2  Fortaleza                      CE,Maracanã,Rio de Janeiro,RJ,11/07,qui,Flamengo,RJ,1,2,Fortaleza,CE,Flamengo RJ - 1,Fortaleza CE - 2,16
+160,16ª,20:00,Criciúma                       SC  1  x  1  Fluminense                  RJ,Heriberto Hulse,Criciúma,SC,11/07,qui,Criciúma,SC,1,1,Fluminense,RJ,Criciúma SC - 1,Fluminense RJ - 1,16
+152,16ª,21:30,Atlético                          MG 2  x  1  São Paulo                    SP,Arena MRV,Belo Horizonte,MG,11/07,qui,Atlético,MG,2,1,São Paulo,SP,Atlético MG - 2,São Paulo SP - 1,16
+"153
+159",16ª,21:30,Vitória                           BA  0  x  1  Botafogo                      RJ,Manoel Barradas,Salvador,BA,11/07,qui,Vitória,BA,0,1,Botafogo,RJ,Vitória BA - 0,Botafogo RJ - 1,16
+,16ª,20:00,Cuiabá                          MT  0  x  0  Juventude                    RS,Arena Pantanal,Cuiabá,MT,05/09,qui,Cuiabá,MT,0,0,Juventude,RS,Cuiabá MT - 0,Juventude RS - 0,16
+157,16ª,19:00,Red Bull Bragantino     SP  2  x  2  Internacional                RS,Nabi Abi Chedid,Bragança Paulista,SP,25/09,qua,Red Bull Bragantino,SP,2,2,Internacional,RS,Red Bull Bragantino SP - 2,Internacional RS - 2,16
+162,17ª,16:00,Cruzeiro                        MG 2  x  1  Red Bull Bragantino    SP,Independência,Belo Horizonte,MG,2025-07-13 00:00:00,sab,Cruzeiro,MG,2,1,Red Bull Bragantino,SP,Cruzeiro MG - 2,Red Bull Bragantino SP - 1,17
+163,17ª,16:00,Bahia                            BA  1  x  2  Cuiabá                          MT,Arena Fonte Nova,Salvador,BA,2025-07-13 00:00:00,sab,Bahia,BA,1,2,Cuiabá,MT,Bahia BA - 1,Cuiabá MT - 2,17
+170,17ª,19:00,Juventude                     RS  1  x  1  Atlético                         MG,Mané Garrincha,Brasília,DF,16/07,ter,Juventude,RS,1,1,Atlético,MG,Juventude RS - 1,Atlético MG - 1,17
+166,17ª,21:00,Corinthians                   SP  2  x  1  Criciúma                       SC,Neo Química Arena,São Paulo,SP,16/07,ter,Corinthians,SP,2,1,Criciúma,SC,Corinthians SP - 2,Criciúma SC - 1,17
+169,17ª,19:00,Atlético                          GO 0  x  1  Vasco da Gama           RJ,Antônio Accioly,Goiânia,GO,17/07,qua,Atlético,GO,0,1,Vasco da Gama,RJ,Atlético GO - 0,Vasco da Gama RJ - 1,17
+167,17ª,20:00,São Paulo                     SP  1  x  0  Grêmio                         RS,Morumbis,São Paulo,SP,17/07,qua,São Paulo,SP,1,0,Grêmio,RS,São Paulo SP - 1,Grêmio RS - 0,17
+165,17ª,21:30,Botafogo                       RJ  1  x  0  Palmeiras                     SP,Nilton Santos,Rio de Janeiro,RJ,17/07,qua,Botafogo,RJ,1,0,Palmeiras,SP,Botafogo RJ - 1,Palmeiras SP - 0,17
+168,17ª,21:30,Fortaleza                      CE  3  x  1  Vitória                           BA,Arena Castelão,Fortaleza,CE,17/07,qua,Fortaleza,CE,3,1,Vitória,BA,Fortaleza CE - 3,Vitória BA - 1,17
+164,17ª,19:30,Fluminense                   RJ  1  x  0  Athletico                       PR,Maracanã,Rio de Janeiro,RJ,22/10,ter,Fluminense,RJ,1,0,Athletico,PR,Fluminense RJ - 1,Athletico PR - 0,17
+161,17ª,19:00,Internacional                 RS  1  x  1  Flamengo                     RJ,Beira-Rio,Porto Alegre,RS,30/10,qua,Internacional,RS,1,1,Flamengo,RJ,Internacional RS - 1,Flamengo RJ - 1,17
+174,18ª,16:00,Flamengo                     RJ  2  x  1  Criciúma                       SC,Mané Garrincha,Brasília,DF,2025-07-20 00:00:00,sab,Flamengo,RJ,2,1,Criciúma,SC,Flamengo RJ - 2,Criciúma SC - 1,18
+175,18ª,18:30,Botafogo                       RJ  1  x  0  Internacional                RS,Nilton Santos,Rio de Janeiro,RJ,2025-07-20 00:00:00,sab,Botafogo,RJ,1,0,Internacional,RS,Botafogo RJ - 1,Internacional RS - 0,18
+176,18ª,21:00,Palmeiras                     SP  2  x  0  Cruzeiro                       MG,Allianz Parque,São Paulo,SP,2025-07-20 00:00:00,sab,Palmeiras,SP,2,0,Cruzeiro,MG,Palmeiras SP - 2,Cruzeiro MG - 0,18
+171,18ª,11:00,Grêmio                          RS  2  x  0  Vitória                           BA,Centenário,Caxias do Sul,RS,21/07,dom,Grêmio,RS,2,0,Vitória,BA,Grêmio RS - 2,Vitória BA - 0,18
+172,18ª,16:00,Atlético                          MG 2  x  0  Vasco da Gama           RJ,Arena MRV,Belo Horizonte,MG,21/07,dom,Atlético,MG,2,0,Vasco da Gama,RJ,Atlético MG - 2,Vasco da Gama RJ - 0,18
+173,18ª,16:00,Bahia                            BA  0  x  1  Corinthians                   SP,Arena Fonte Nova,Salvador,BA,21/07,dom,Bahia,BA,0,1,Corinthians,SP,Bahia BA - 0,Corinthians SP - 1,18
+180,18ª,18:30,Juventude                     RS  0  x  0  São Paulo                    SP,Mané Garrincha,Brasília,DF,21/07,dom,Juventude,RS,0,0,São Paulo,SP,Juventude RS - 0,São Paulo SP - 0,18
+178,18ª,18:30,Fortaleza                      CE  3  x  1  Atlético                         GO,Arena Castelão,Fortaleza,CE,21/07,dom,Fortaleza,CE,3,1,Atlético,GO,Fortaleza CE - 3,Atlético GO - 1,18
+177,18ª,18:30,Red Bull Bragantino     SP  1  x  0  Athletico                       PR,Nabi Abi Chedid,Bragança Paulista,SP,21/07,dom,Red Bull Bragantino,SP,1,0,Athletico,PR,Red Bull Bragantino SP - 1,Athletico PR - 0,18
+179,18ª,20:00,Cuiabá                          MT  0  x  1  Fluminense                  RJ,Arena Pantanal,Cuiabá,MT,21/07,dom,Cuiabá,MT,0,1,Fluminense,RJ,Cuiabá MT - 0,Fluminense RJ - 1,18
+182,19ª,19:00,Cruzeiro                        MG 2  x  0  Juventude                    RS,Mineirão,Belo Horizonte,MG,24/07,qua,Cruzeiro,MG,2,0,Juventude,RS,Cruzeiro MG - 2,Juventude RS - 0,19
+187,19ª,19:30,São Paulo                     SP  2  x  2  Botafogo                      RJ,Morumbis,São Paulo,SP,24/07,qua,São Paulo,SP,2,2,Botafogo,RJ,São Paulo SP - 2,Botafogo RJ - 2,19
+183,19ª,20:00,Vitória                           BA  1  x  2  Flamengo                     RJ,Manoel Barradas,Salvador,BA,24/07,qua,Vitória,BA,1,2,Flamengo,RJ,Vitória BA - 1,Flamengo RJ - 2,19
+184,19ª,21:30,Fluminense                   RJ  1  x  0  Palmeiras                     SP,Maracanã,Rio de Janeiro,RJ,24/07,qua,Fluminense,RJ,1,0,Palmeiras,SP,Fluminense RJ - 1,Palmeiras SP - 0,19
+189,19ª,21:30,Atlético                          GO 1  x  1  Bahia                            BA,Antônio Accioly,Goiânia,GO,24/07,qua,Atlético,GO,1,1,Bahia,BA,Atlético GO - 1,Bahia BA - 1,19
+186,19ª,20:00,Corinthians                   SP  2  x  2  Grêmio                         RS,Neo Química  Arena,São Paulo,SP,25/07,qui,Corinthians,SP,2,2,Grêmio,RS,Corinthians SP - 2,Grêmio RS - 2,19
+190,19ª,19:30,Criciúma                       SC  1  x  0  Red Bull Bragantino    SP,Heriberto Hulse,Criciúma,SC,28/08,qua,Criciúma,SC,1,0,Red Bull Bragantino,SP,Criciúma SC - 1,Red Bull Bragantino SP - 0,19
+181,19ª,19:30,Internacional                 RS  2  x  1  Fortaleza                      CE,Beira-Rio,Porto Alegre,RS,11/09,qua,Internacional,RS,2,1,Fortaleza,CE,Internacional RS - 2,Fortaleza CE - 1,19
+185,19ª,19:00,Vasco da Gama           RJ  1  x  0  Cuiabá                          MT,São Januário,Rio de Janeiro,RJ,24/10,qui,Vasco da Gama,RJ,1,0,Cuiabá,MT,Vasco da Gama RJ - 1,Cuiabá MT - 0,19
+188,19ª,18:30,Athletico                       PR  1  x  0  Atlético                         MG,Ligga Arena,Curitiba,PR,24/10,qui,Athletico,PR,1,0,Atlético,MG,Athletico PR - 1,Atlético MG - 0,19
+196,20ª,19:00,Palmeiras                     SP  0  x  2  Vitória                           BA,Allianz Parque,São Paulo,SP,2025-07-27 00:00:00,sab,Palmeiras,SP,0,2,Vitória,BA,Palmeiras SP - 0,Vitória BA - 2,20
+200,20ª,19:00,Juventude                     RS  1  x  2  Criciúma                       SC,Alfredo Jaconi,Caxias do Sul,RS,2025-07-27 00:00:00,sab,Juventude,RS,1,2,Criciúma,SC,Juventude RS - 1,Criciúma SC - 2,20
+193,20ª,20:00,Bahia                            BA  1  x  1  Internacional                RS,Arena Fonte Nova,Salvador,BA,2025-07-27 00:00:00,sab,Bahia,BA,1,1,Internacional,RS,Bahia BA - 1,Internacional RS - 1,20
+195,20ª,21:30,Botafogo                       RJ  0  x  3  Cruzeiro                       MG,Nilton Santos,Rio de Janeiro,RJ,2025-07-27 00:00:00,sab,Botafogo,RJ,0,3,Cruzeiro,MG,Botafogo RJ - 0,Cruzeiro MG - 3,20
+198,20ª,21:30,Fortaleza                      CE  1  x  0  São Paulo                    SP,Arena Castelão,Fortaleza,CE,2025-07-27 00:00:00,sab,Fortaleza,CE,1,0,São Paulo,SP,Fortaleza CE - 1,São Paulo SP - 0,20
+197,20ª,11:00,Red Bull Bragantino     SP  0  x  1  Fluminense                  RJ,Nabi Abi Chedid,Bragança Paulista,SP,28/07,dom,Red Bull Bragantino,SP,0,1,Fluminense,RJ,Red Bull Bragantino SP - 0,Fluminense RJ - 1,20
+194,20ª,16:00,Flamengo                     RJ  2  x  0  Atlético                         GO,Maracanã,Rio de Janeiro,RJ,28/07,dom,Flamengo,RJ,2,0,Atlético,GO,Flamengo RJ - 2,Atlético GO - 0,20
+191,20ª,19:00,Grêmio                          RS  1  x  0  Vasco da Gama           RJ,Arena Condá,Chapecó,SC,28/07,dom,Grêmio,RS,1,0,Vasco da Gama,RJ,Grêmio RS - 1,Vasco da Gama RJ - 0,20
+192,20ª,19:00,Atlético                          MG 2  x  1  Corinthians                   SP,Arena MRV,Belo Horizonte,MG,28/07,dom,Atlético,MG,2,1,Corinthians,SP,Atlético MG - 2,Corinthians SP - 1,20
+199,20ª,19:00,Cuiabá                          MT  1  x  2  Athletico                       PR,Arena Pantanal,Cuiabá,MT,28/07,dom,Cuiabá,MT,1,2,Athletico,PR,Cuiabá MT - 1,Athletico PR - 2,20
+203,21ª,16:00,Vitória                           BA  1  x  0  Cuiabá                          MT,Manoel Barradas,Salvador,BA,2025-08-03 00:00:00,sab,Vitória,BA,1,0,Cuiabá,MT,Vitória BA - 1,Cuiabá MT - 0,21
+205,21ª,19:00,Vasco da Gama           RJ  2  x  2  Red Bull Bragantino    SP,São Januário,Rio de Janeiro,RJ,2025-08-03 00:00:00,sab,Vasco da Gama,RJ,2,2,Red Bull Bragantino,SP,Vasco da Gama RJ - 2,Red Bull Bragantino SP - 2,21
+209,21ª,20:00,Atlético                          GO 1  x  4  Botafogo                      RJ,Antônio Accioly,Goiânia,GO,2025-08-03 00:00:00,sab,Atlético,GO,1,4,Botafogo,RJ,Atlético GO - 1,Botafogo RJ - 4,21
+210,21ª,20:00,Criciúma                       SC  2  x  1  Atlético                         MG,Heriberto Hulse,Criciúma,SC,2025-08-03 00:00:00,sab,Criciúma,SC,2,1,Atlético,MG,Criciúma SC - 2,Atlético MG - 1,21
+207,21ª,21:30,São Paulo                     SP  1  x  0  Flamengo                     RJ,Morumbis,São Paulo,SP,2025-08-03 00:00:00,sab,São Paulo,SP,1,0,Flamengo,RJ,São Paulo SP - 1,Flamengo RJ - 0,21
+204,21ª,16:00,Fluminense                   RJ  1  x  0  Bahia                            BA,Maracanã,Rio de Janeiro,RJ,04/08,dom,Fluminense,RJ,1,0,Bahia,BA,Fluminense RJ - 1,Bahia BA - 0,21
+206,21ª,16:00,Corinthians                   SP  1  x  1  Juventude                    RS,Neo Química Arena,São Paulo,SP,04/08,dom,Corinthians,SP,1,1,Juventude,RS,Corinthians SP - 1,Juventude RS - 1,21
+208,21ª,16:00,Athletico                       PR  0  x  2  Grêmio                         RS,Ligga Arena,Curitiba,PR,04/08,dom,Athletico,PR,0,2,Grêmio,RS,Athletico PR - 0,Grêmio RS - 2,21
+201,21ª,17:00,Internacional                 RS  1  x  1  Palmeiras                     SP,Beira-Rio,Porto Alegre,RS,04/08,dom,Internacional,RS,1,1,Palmeiras,SP,Internacional RS - 1,Palmeiras SP - 1,21
+202,21ª,21:00,Cruzeiro                        MG 1  x  2  Fortaleza                      CE,Kleber Andrade,Cariacica,ES,05/08,seg,Cruzeiro,MG,1,2,Fortaleza,CE,Cruzeiro MG - 1,Fortaleza CE - 2,21
+218,22ª,16:00,Fortaleza                      CE  1  x  0  Criciúma                       SC,Arena Castelão,Fortaleza,CE,2025-08-10 00:00:00,sab,Fortaleza,CE,1,0,Criciúma,SC,Fortaleza CE - 1,Criciúma SC - 0,22
+219,22ª,19:00,Cuiabá                          MT  1  x  3  Grêmio                         RS,Arena Pantanal,Cuiabá,MT,2025-08-10 00:00:00,sab,Cuiabá,MT,1,3,Grêmio,RS,Cuiabá MT - 1,Grêmio RS - 3,22
+212,22ª,21:30,Cruzeiro                        MG 0  x  0  Atlético                         MG,Mineirão,Belo Horizonte,MG,2025-08-10 00:00:00,sab,Cruzeiro,MG,0,0,Atlético,MG,Cruzeiro MG - 0,Atlético MG - 0,22
+215,22ª,21:30,Vasco da Gama           RJ  2  x  0  Fluminense                  RJ,Nilton Santos,Rio de Janeiro,RJ,2025-08-10 00:00:00,sab,Vasco da Gama,RJ,2,0,Fluminense,RJ,Vasco da Gama RJ - 2,Fluminense RJ - 0,22
+216,22ª,21:30,Corinthians                   SP  1  x  1  Red Bull Bragantino    SP,Neo Química Arena,São Paulo,SP,2025-08-10 00:00:00,sab,Corinthians,SP,1,1,Red Bull Bragantino,SP,Corinthians SP - 1,Red Bull Bragantino SP - 1,22
+220,22ª,11:00,Juventude                     RS  3  x  2  Botafogo                      RJ,Alfredo Jaconi,Caxias do Sul,RS,11/08,dom,Juventude,RS,3,2,Botafogo,RJ,Juventude RS - 3,Botafogo RJ - 2,22
+213,22ª,16:00,Bahia                            BA  2  x  0  Vitória                           BA,Arena Fonte Nova,Salvador,BA,11/08,dom,Bahia,BA,2,0,Vitória,BA,Bahia BA - 2,Vitória BA - 0,22
+214,22ª,16:00,Flamengo                     RJ  1  x  1  Palmeiras                     SP,Maracanã,Rio de Janeiro,RJ,11/08,dom,Flamengo,RJ,1,1,Palmeiras,SP,Flamengo RJ - 1,Palmeiras SP - 1,22
+217,22ª,16:00,São Paulo                     SP  1  x  0  Atlético                         GO,Morumbis,São Paulo,SP,11/08,dom,São Paulo,SP,1,0,Atlético,GO,São Paulo SP - 1,Atlético GO - 0,22
+211,22ª,19:00,Internacional                 RS  2  x  2  Athletico                       PR,Beira-Rio,Porto Alegre,RS,11/08,dom,Internacional,RS,2,2,Athletico,PR,Internacional RS - 2,Athletico PR - 2,22
+222,23ª,16:00,Atlético                          MG 1  x  1  Cuiabá                          MT,Arena MRV,Belo Horizonte,MG,2025-08-17 00:00:00,sab,Atlético,MG,1,1,Cuiabá,MT,Atlético MG - 1,Cuiabá MT - 1,23
+221,23ª,16:00,Grêmio                          RS  0  x  2  Bahia                            BA,Alfredo Jaconi,Caxias do Sul,RS,2025-08-17 00:00:00,sab,Grêmio,RS,0,2,Bahia,BA,Grêmio RS - 0,Bahia BA - 2,23
+227,23ª,18:30,Red Bull Bragantino     SP  1  x  2  Fortaleza                      CE,Nabi Abi Chedid,Bragança Paulista,SP,2025-08-17 00:00:00,sab,Red Bull Bragantino,SP,1,2,Fortaleza,CE,Red Bull Bragantino SP - 1,Fortaleza CE - 2,23
+224,23ª,21:00,Fluminense                   RJ  0  x  0  Corinthians                   SP,Maracanã,Rio de Janeiro,RJ,2025-08-17 00:00:00,sab,Fluminense,RJ,0,0,Corinthians,SP,Fluminense RJ - 0,Corinthians SP - 0,23
+"226
+229",23ª,16:00,Palmeiras                     SP  2  x  1  São Paulo                    SP,Allianz Parque,São Paulo,SP,18/08,dom,Palmeiras,SP,2,1,São Paulo,SP,Palmeiras SP - 2,São Paulo SP - 1,23
+,23ª,16:00,Atlético                          GO 1  x  0  Internacional                RS,Antônio Accioly,Goiânia,GO,18/08,dom,Atlético,GO,1,0,Internacional,RS,Atlético GO - 1,Internacional RS - 0,23
+230,23ª,16:00,Criciúma                       SC  2  x  2  Vasco da Gama           RJ,Heriberto Hulse,Criciúma,SC,18/08,dom,Criciúma,SC,2,2,Vasco da Gama,RJ,Criciúma SC - 2,Vasco da Gama RJ - 2,23
+228,23ª,18:30,Athletico                       PR  1  x  2  Juventude                    RS,Ligga Arena,Curitiba,PR,18/08,dom,Athletico,PR,1,2,Juventude,RS,Athletico PR - 1,Juventude RS - 2,23
+225,23ª,18:30,Botafogo                       RJ  4  x  1  Flamengo                     RJ,Nilton Santos,Rio de Janeiro,RJ,18/08,dom,Botafogo,RJ,4,1,Flamengo,RJ,Botafogo RJ - 4,Flamengo RJ - 1,23
+223,23ª,20:00,Vitória                           BA  2  x  2  Cruzeiro                       MG,Manoel Barradas,Salvador,BA,19/08,seg,Vitória,BA,2,2,Cruzeiro,MG,Vitória BA - 2,Cruzeiro MG - 2,23
+239,24ª,16:00,Atlético                          GO 2  x  1  Juventude                    RS,Antônio Accioly,Goiânia,GO,2025-08-24 00:00:00,sab,Atlético,GO,2,1,Juventude,RS,Atlético GO - 2,Juventude RS - 1,24
+236,24ª,18:30,Palmeiras                     SP  5  x  0  Cuiabá                          MT,Brinco de Ouro,Campinas,SP,2025-08-24 00:00:00,sab,Palmeiras,SP,5,0,Cuiabá,MT,Palmeiras SP - 5,Cuiabá MT - 0,24
+232,24ª,21:00,Atlético                          MG 0  x  2  Fluminense                  RJ,Mineirão,Belo Horizonte,MG,2025-08-24 00:00:00,sab,Atlético,MG,0,2,Fluminense,RJ,Atlético MG - 0,Fluminense RJ - 2,24
+240,24ª,16:00,Criciúma                       SC  0  x  1  Grêmio                         RS,Heriberto Hulse,Criciúma,SC,25/08,dom,Criciúma,SC,0,1,Grêmio,RS,Criciúma SC - 0,Grêmio RS - 1,24
+233,24ª,16:00,Bahia                            BA  0  x  0  Botafogo                      RJ,Arena Fonte Nova,Salvador,BA,25/08,dom,Bahia,BA,0,0,Botafogo,RJ,Bahia BA - 0,Botafogo RJ - 0,24
+238,24ª,16:00,Fortaleza                      CE  1  x  0  Corinthians                   SP,Arena Castelão,Fortaleza,CE,25/08,dom,Fortaleza,CE,1,0,Corinthians,SP,Fortaleza CE - 1,Corinthians SP - 0,24
+237,24ª,18:30,São Paulo                     SP  2  x  1  Vitória                           BA,Morumbis,São Paulo,SP,25/08,dom,São Paulo,SP,2,1,Vitória,BA,São Paulo SP - 2,Vitória BA - 1,24
+231,24ª,19:00,Internacional                 RS  1  x  0  Cruzeiro                       MG,Beira-Rio,Porto Alegre,RS,25/08,dom,Internacional,RS,1,0,Cruzeiro,MG,Internacional RS - 1,Cruzeiro MG - 0,24
+234,24ª,20:00,Flamengo                     RJ  2  x  1  Red Bull Bragantino    SP,Maracanã,Rio de Janeiro,RJ,25/08,dom,Flamengo,RJ,2,1,Red Bull Bragantino,SP,Flamengo RJ - 2,Red Bull Bragantino SP - 1,24
+235,24ª,21:00,Vasco da Gama           RJ  2  x  1  Athletico                       PR,São Januário,Rio de Janeiro,RJ,26/08,seg,Vasco da Gama,RJ,2,1,Athletico,PR,Vasco da Gama RJ - 2,Athletico PR - 1,24
+249,25ª,18:30,Cuiabá                          MT  2  x  1  Criciúma                       SC,Arena Pantanal,Cuiabá,MT,2025-08-31 00:00:00,sab,Cuiabá,MT,2,1,Criciúma,SC,Cuiabá MT - 2,Criciúma SC - 1,25
+245,25ª,21:00,Botafogo                       RJ  2  x  0  Fortaleza                      CE,Nilton Santos,Rio de Janeiro,RJ,2025-08-31 00:00:00,sab,Botafogo,RJ,2,0,Fortaleza,CE,Botafogo RJ - 2,Fortaleza CE - 0,25
+242,25ª,11:00,Cruzeiro                        MG 3  x  1  Atlético                         GO,Mineirão,Belo Horizonte,MG,01/09,dom,Cruzeiro,MG,3,1,Atlético,GO,Cruzeiro MG - 3,Atlético GO - 1,25
+241,25ª,11:00,Grêmio                          RS  2  x  3  Atlético                         MG,Arena do Grêmio,Porto Alegre,RS,01/09,dom,Grêmio,RS,2,3,Atlético,MG,Grêmio RS - 2,Atlético MG - 3,25
+246,25ª,16:00,Corinthians                   SP  2  x  1  Flamengo                     RJ,Neo Química Arena,São Paulo,SP,01/09,dom,Corinthians,SP,2,1,Flamengo,RJ,Corinthians SP - 2,Flamengo RJ - 1,25
+248,25ª,18:30,Athletico                       PR  0  x  2  Palmeiras                     SP,Ligga Arena,Curitiba,PR,01/09,dom,Athletico,PR,0,2,Palmeiras,SP,Athletico PR - 0,Palmeiras SP - 2,25
+243,25ª,18:30,Vitória                           BA  0  x  1  Vasco da Gama           RJ,Manoel Barradas,Salvador,BA,01/09,dom,Vitória,BA,0,1,Vasco da Gama,RJ,Vitória BA - 0,Vasco da Gama RJ - 1,25
+244,25ª,18:30,Fluminense                   RJ  2  x  0  São Paulo                    SP,Maracanã,Rio de Janeiro,RJ,01/09,dom,Fluminense,RJ,2,0,São Paulo,SP,Fluminense RJ - 2,São Paulo SP - 0,25
+247,25ª,18:30,Red Bull Bragantino     SP  2  x  1  Bahia                            BA,Nabi Abi Chedid,Bragança Paulista,SP,01/09,dom,Red Bull Bragantino,SP,2,1,Bahia,BA,Red Bull Bragantino SP - 2,Bahia BA - 1,25
+250,25ª,18:30,Juventude                     RS  1  x  3  Internacional                RS,Alfredo Jaconi,Caxias do Sul,RS,01/09,dom,Juventude,RS,1,3,Internacional,RS,Juventude RS - 1,Internacional RS - 3,25
+259,26ª,16:00,Atlético                          GO 0  x  2  Vitória                           BA,Antônio Accioly,Goiânia,GO,2025-09-14 00:00:00,sab,Atlético,GO,0,2,Vitória,BA,Atlético GO - 0,Vitória BA - 2,26
+258,26ª,18:30,Athletico                       PR  1  x  1  Fortaleza                      CE,Ligga Arena,Curitiba,PR,2025-09-14 00:00:00,sab,Athletico,PR,1,1,Fortaleza,CE,Athletico PR - 1,Fortaleza CE - 1,26
+255,26ª,21:00,Botafogo                       RJ  2  x  1  Corinthians                   SP,Nilton Santos,Rio de Janeiro,RJ,2025-09-14 00:00:00,sab,Botafogo,RJ,2,1,Corinthians,SP,Botafogo RJ - 2,Corinthians SP - 1,26
+256,26ª,16:00,Palmeiras                     SP  5  x  0  Criciúma                       SC,Allianz Parque,São Paulo,SP,15/09,dom,Palmeiras,SP,5,0,Criciúma,SC,Palmeiras SP - 5,Criciúma SC - 0,26
+257,26ª,16:00,Red Bull Bragantino     SP  2  x  2  Grêmio                         RS,Nabi Abi Chedid,Bragança Paulista,SP,15/09,dom,Red Bull Bragantino,SP,2,2,Grêmio,RS,Red Bull Bragantino SP - 2,Grêmio RS - 2,26
+260,26ª,16:00,Juventude                     RS  2  x  1  Fluminense                  RJ,Alfredo Jaconi,Caxias do Sul,RS,15/09,dom,Juventude,RS,2,1,Fluminense,RJ,Juventude RS - 2,Fluminense RJ - 1,26
+252,26ª,18:30,Cruzeiro                        MG 0  x  1  São Paulo                    SP,Mineirão,Belo Horizonte,MG,15/09,dom,Cruzeiro,MG,0,1,São Paulo,SP,Cruzeiro MG - 0,São Paulo SP - 1,26
+253,26ª,18:30,Bahia                            BA  3  x  0  Atlético                         MG,Arena Fonte Nova,Salvador,BA,15/09,dom,Bahia,BA,3,0,Atlético,MG,Bahia BA - 3,Atlético MG - 0,26
+254,26ª,18:30,Flamengo                     RJ  1  x  1  Vasco da Gama           RJ,Maracanã,Rio de Janeiro,RJ,15/09,dom,Flamengo,RJ,1,1,Vasco da Gama,RJ,Flamengo RJ - 1,Vasco da Gama RJ - 1,26
+251,26ª,20:00,Internacional                 RS  3  x  0  Cuiabá                          MT,Beira-Rio,Porto Alegre,RS,16/09,seg,Internacional,RS,3,0,Cuiabá,MT,Internacional RS - 3,Cuiabá MT - 0,26
+263,27ª,16:00,Vitória                           BA  1  x  0  Juventude                    RS,Manoel Barradas,Salvador,BA,2025-09-21 00:00:00,sab,Vitória,BA,1,0,Juventude,RS,Vitória BA - 1,Juventude RS - 0,27
+266,27ª,16:00,Corinthians                   SP  3  x  0  Atlético                         GO,Neo Química Arena,São Paulo,SP,2025-09-21 00:00:00,sab,Corinthians,SP,3,0,Atlético,GO,Corinthians SP - 3,Atlético GO - 0,27
+264,27ª,18:30,Fluminense                   RJ  0  x  1  Botafogo                      RJ,Maracanã,Rio de Janeiro,RJ,2025-09-21 00:00:00,sab,Fluminense,RJ,0,1,Botafogo,RJ,Fluminense RJ - 0,Botafogo RJ - 1,27
+268,27ª,21:00,Fortaleza                      CE  4  x  1  Bahia                            BA,Arena Castelão,Fortaleza,CE,2025-09-21 00:00:00,sab,Fortaleza,CE,4,1,Bahia,BA,Fortaleza CE - 4,Bahia BA - 1,27
+262,27ª,16:00,Atlético                          MG 3  x  0  Red Bull Bragantino    SP,Arena MRV,Belo Horizonte,MG,22/09,dom,Atlético,MG,3,0,Red Bull Bragantino,SP,Atlético MG - 3,Red Bull Bragantino SP - 0,27
+265,27ª,16:00,Vasco da Gama           RJ  0  x  1  Palmeiras                     SP,Mané Garrincha,Brasília,DF,22/09,dom,Vasco da Gama,RJ,0,1,Palmeiras,SP,Vasco da Gama RJ - 0,Palmeiras SP - 1,27
+267,27ª,18:30,São Paulo                     SP  1  x  3  Internacional                RS,Morumbis,São Paulo,SP,22/09,dom,São Paulo,SP,1,3,Internacional,RS,São Paulo SP - 1,Internacional RS - 3,27
+269,27ª,18:30,Cuiabá                          MT  0  x  0  Cruzeiro                       MG,Arena Pantanal,Cuiabá,MT,22/09,dom,Cuiabá,MT,0,0,Cruzeiro,MG,Cuiabá MT - 0,Cruzeiro MG - 0,27
+261,27ª,18:30,Grêmio                          RS  3  x  2  Flamengo                     RJ,Arena do Grêmio,Porto Alegre,RS,22/09,dom,Grêmio,RS,3,2,Flamengo,RJ,Grêmio RS - 3,Flamengo RJ - 2,27
+270,27ª,20:00,Criciúma                       SC  0  x  0  Athletico                       PR,Heriberto Hulse,Criciúma,SC,22/09,dom,Criciúma,SC,0,0,Athletico,PR,Criciúma SC - 0,Athletico PR - 0,27
+276,28ª,18:30,Palmeiras                     SP  2  x  1  Atlético                         MG,Brinco de Ouro,Campinas,SP,2025-09-28 00:00:00,sab,Palmeiras,SP,2,1,Atlético,MG,Palmeiras SP - 2,Atlético MG - 1,28
+275,28ª,21:00,Botafogo                       RJ  0  x  0  Grêmio                         RS,Mané Garrincha,Brasília,DF,2025-09-28 00:00:00,sab,Botafogo,RJ,0,0,Grêmio,RS,Botafogo RJ - 0,Grêmio RS - 0,28
+280,28ª,11:00,Juventude                     RS  1  x  1  Red Bull Bragantino    SP,Alfredo Jaconi,Caxias do Sul,RS,29/09,dom,Juventude,RS,1,1,Red Bull Bragantino,SP,Juventude RS - 1,Red Bull Bragantino SP - 1,28
+277,28ª,16:00,São Paulo                     SP  3  x  1  Corinthians                   SP,Mané Garrincha,Brasília,DF,29/09,dom,São Paulo,SP,3,1,Corinthians,SP,São Paulo SP - 3,Corinthians SP - 1,28
+278,28ª,16:00,Fortaleza                      CE  1  x  0  Cuiabá                          MT,Arena Castelão,Fortaleza,CE,29/09,dom,Fortaleza,CE,1,0,Cuiabá,MT,Fortaleza CE - 1,Cuiabá MT - 0,28
+279,28ª,16:00,Atlético                          GO 1  x  0  Fluminense                  RJ,Antônio Accioly,Goiânia,GO,29/09,dom,Atlético,GO,1,0,Fluminense,RJ,Atlético GO - 1,Fluminense RJ - 0,28
+271,28ª,18:30,Internacional                 RS  3  x  1  Vitória                           BA,Beira-Rio,Porto Alegre,RS,29/09,dom,Internacional,RS,3,1,Vitória,BA,Internacional RS - 3,Vitória BA - 1,28
+272,28ª,18:30,Cruzeiro                        MG 1  x  1  Vasco da Gama           RJ,Mineirão,Belo Horizonte,MG,29/09,dom,Cruzeiro,MG,1,1,Vasco da Gama,RJ,Cruzeiro MG - 1,Vasco da Gama RJ - 1,28
+273,28ª,18:30,Bahia                            BA  1  x  0  Criciúma                       SC,Arena Fonte Nova,Salvador,BA,29/09,dom,Bahia,BA,1,0,Criciúma,SC,Bahia BA - 1,Criciúma SC - 0,28
+274,28ª,20:00,Flamengo                     RJ  1  x  0  Athletico                       PR,Maracanã,Rio de Janeiro,RJ,29/09,dom,Flamengo,RJ,1,0,Athletico,PR,Flamengo RJ - 1,Athletico PR - 0,28
+290,29ª,19:00,Criciúma                       SC  2  x  0  Atlético                         GO,Heriberto Hulse,Criciúma,SC,03/10,qui,Criciúma,SC,2,0,Atlético,GO,Criciúma SC - 2,Atlético GO - 0,29
+284,29ª,21:30,Fluminense                   RJ  1  x  0  Cruzeiro                       MG,Maracanã,Rio de Janeiro,RJ,03/10,qui,Fluminense,RJ,1,0,Cruzeiro,MG,Fluminense RJ - 1,Cruzeiro MG - 0,29
+281,29ª,21:30,Grêmio                          RS  3  x  1  Fortaleza                      CE,Arena do Grêmio,Porto Alegre,RS,04/10,sex,Grêmio,RS,3,1,Fortaleza,CE,Grêmio RS - 3,Fortaleza CE - 1,29
+282,29ª,16:30,Atlético                          MG 2  x  2  Vitória                           BA,Arena MRV,Belo Horizonte,MG,04/10,sex,Atlético,MG,2,2,Vitória,BA,Atlético MG - 2,Vitória BA - 2,29
+287,29ª,16:30,Red Bull Bragantino     SP  0  x  0  Palmeiras                     SP,Nabi Abi Chedid,Bragança Paulista,SP,04/10,sex,Red Bull Bragantino,SP,0,0,Palmeiras,SP,Red Bull Bragantino SP - 0,Palmeiras SP - 0,29
+288,29ª,16:30,Athletico                       PR  0  x  1  Botafogo                      RJ,Ligga Arena,Curitiba,PR,04/10,sex,Athletico,PR,0,1,Botafogo,RJ,Athletico PR - 0,Botafogo RJ - 1,29
+283,29ª,19:00,Bahia                            BA  0  x  2  Flamengo                     RJ,Arena Fonte Nova,Salvador,BA,04/10,sex,Bahia,BA,0,2,Flamengo,RJ,Bahia BA - 0,Flamengo RJ - 2,29
+286,29ª,19:00,Corinthians                   SP  2  x  2  Internacional                RS,Neo Química Arena,São Paulo,SP,04/10,sex,Corinthians,SP,2,2,Internacional,RS,Corinthians SP - 2,Internacional RS - 2,29
+289,29ª,19:00,Cuiabá                          MT  2  x  0  São Paulo                    SP,Arena Pantanal,Cuiabá,MT,04/10,sex,Cuiabá,MT,2,0,São Paulo,SP,Cuiabá MT - 2,São Paulo SP - 0,29
+285,29ª,21:00,Vasco da Gama           RJ  1  x  1  Juventude                    RS,São Januário,Rio de Janeiro,RJ,04/10,sex,Vasco da Gama,RJ,1,1,Juventude,RS,Vasco da Gama RJ - 1,Juventude RS - 1,29
+297,30ª,21:45,São Paulo                     SP  3  x  0  Vasco da Gama           RJ,Brinco de Ouro,Campinas,SP,16/10,qua,São Paulo,SP,3,0,Vasco da Gama,RJ,São Paulo SP - 3,Vasco da Gama RJ - 0,30
+298,30ª,21:45,Fortaleza                      CE  1  x  1  Atlético                         MG,Arena Castelão,Fortaleza,CE,16/10,qua,Fortaleza,CE,1,1,Atlético,MG,Fortaleza CE - 1,Atlético MG - 1,30
+294,30ª,20:00,Flamengo                     RJ  0  x  2  Fluminense                  RJ,Maracanã,Rio de Janeiro,RJ,17/10,qui,Flamengo,RJ,0,2,Fluminense,RJ,Flamengo RJ - 0,Fluminense RJ - 2,30
+296,30ª,20:00,Corinthians                   SP  5  x  2  Athletico                       PR,Neo Quimica Arena,São Paulo,SP,17/10,qui,Corinthians,SP,5,2,Athletico,PR,Corinthians SP - 5,Athletico PR - 2,30
+299,30ª,19:00,Atlético                          GO 0  x  0  Cuiabá                          MT,Antônio Accioly,Goiânia,GO,18/10,sex,Atlético,GO,0,0,Cuiabá,MT,Atlético GO - 0,Cuiabá MT - 0,30
+295,30ª,20:00,Botafogo                       RJ  1  x  1  Criciúma                       SC,Maracanã,Rio de Janeiro,RJ,18/10,sex,Botafogo,RJ,1,1,Criciúma,SC,Botafogo RJ - 1,Criciúma SC - 1,30
+292,30ª,21:30,Cruzeiro                        MG 1  x  1  Bahia                            BA,Mineirão,Belo Horizonte,MG,18/10,sex,Cruzeiro,MG,1,1,Bahia,BA,Cruzeiro MG - 1,Bahia BA - 1,30
+291,30ª,16:00,Internacional                 RS  1  x  0  Grêmio                         RS,Beira-Rio,Porto Alegre,RS,18/10,sex,Internacional,RS,1,0,Grêmio,RS,Internacional RS - 1,Grêmio RS - 0,30
+293,30ª,16:00,Vitória                           BA  1  x  0  Red Bull Bragantino    SP,Manoel Barradas,Salvador,BA,18/10,sex,Vitória,BA,1,0,Red Bull Bragantino,SP,Vitória BA - 1,Red Bull Bragantino SP - 0,30
+300,30ª,20:00,Juventude                     RS  3  x  5  Palmeiras                     SP,Alfredo Jaconi,Caxias do Sul,RS,20/10,dom,Juventude,RS,3,5,Palmeiras,SP,Juventude RS - 3,Palmeiras SP - 5,30
+301,31ª,16:30,Grêmio                          RS  3  x  1  Atlético                         GO,Arena do Grêmio,Porto Alegre,RS,2025-10-26 00:00:00,sab,Grêmio,RS,3,1,Atlético,GO,Grêmio RS - 3,Atlético GO - 1,31
+303,31ª,16:30,Vitória                           BA  2  x  1  Fluminense                  RJ,Manoel Barradas,Salvador,BA,2025-10-26 00:00:00,sab,Vitória,BA,2,1,Fluminense,RJ,Vitória BA - 2,Fluminense RJ - 1,31
+304,31ª,16:30,Flamengo                     RJ  4  x  2  Juventude                    RS,Maracanã,Rio de Janeiro,RJ,2025-10-26 00:00:00,sab,Flamengo,RJ,4,2,Juventude,RS,Flamengo RJ - 4,Juventude RS - 2,31
+306,31ª,16:30,Palmeiras                     SP  2  x  2  Fortaleza                      CE,Allianz Parque,São Paulo,SP,2025-10-26 00:00:00,sab,Palmeiras,SP,2,2,Fortaleza,CE,Palmeiras SP - 2,Fortaleza CE - 2,31
+308,31ª,18:30,Athletico                       PR  3  x  0  Cruzeiro                       MG,Ligga Arena,Curitiba,PR,2025-10-26 00:00:00,sab,Athletico,PR,3,0,Cruzeiro,MG,Athletico PR - 3,Cruzeiro MG - 0,31
+302,31ª,19:00,Atlético                          MG 1  x  3  Internacional                RS,Arena MRV,Belo Horizonte,MG,2025-10-26 00:00:00,sab,Atlético,MG,1,3,Internacional,RS,Atlético MG - 1,Internacional RS - 3,31
+307,31ª,19:00,Red Bull Bragantino     SP  0  x  1  Botafogo                      RJ,Nabi Abi Chedid,Bragança Paulista,SP,2025-10-26 00:00:00,sab,Red Bull Bragantino,SP,0,1,Botafogo,RJ,Red Bull Bragantino SP - 0,Botafogo RJ - 1,31
+310,31ª,21:00,Criciúma                       SC  1  x  1  São Paulo                    SP,Heriberto Hulse,Criciúma,SC,2025-10-26 00:00:00,sab,Criciúma,SC,1,1,São Paulo,SP,Criciúma SC - 1,São Paulo SP - 1,31
+309,31ª,19:00,Cuiabá                          MT  0  x  1  Corinthians                   SP,Arena Pantanal,Cuiabá,MT,28/10,seg,Cuiabá,MT,0,1,Corinthians,SP,Cuiabá MT - 0,Corinthians SP - 1,31
+305,31ª,21:00,Vasco da Gama           RJ  3  x  2  Bahia                            BA,São Januário,Rio de Janeiro,RJ,28/10,seg,Vasco da Gama,RJ,3,2,Bahia,BA,Vasco da Gama RJ - 3,Bahia BA - 2,31
+314,32ª,21:00,Fluminense                   RJ  2  x  2  Grêmio                         RS,Maracanã,Rio de Janeiro,RJ,01/11,sex,Fluminense,RJ,2,2,Grêmio,RS,Fluminense RJ - 2,Grêmio RS - 2,32
+317,32ª,16:00,Red Bull Bragantino     SP  0  x  0  Cuiabá                          MT,Nabi Abi Chedid,Bragança Paulista,SP,01/11,sex,Red Bull Bragantino,SP,0,0,Cuiabá,MT,Red Bull Bragantino SP - 0,Cuiabá MT - 0,32
+318,32ª,18:30,Athletico                       PR  1  x  2  Vitória                           BA,Ligga Arena,Curitiba,PR,01/11,sex,Athletico,PR,1,2,Vitória,BA,Athletico PR - 1,Vitória BA - 2,32
+320,32ª,18:30,Juventude                     RS  0  x  3  Fortaleza                      CE,Alfredo Jaconi,Caxias do Sul,RS,01/11,sex,Juventude,RS,0,3,Fortaleza,CE,Juventude RS - 0,Fortaleza CE - 3,32
+316,32ª,20:00,Corinthians                   SP  2  x  0  Palmeiras                     SP,Neo Química Arena,São Paulo,SP,04/11,seg,Corinthians,SP,2,0,Palmeiras,SP,Corinthians SP - 2,Palmeiras SP - 0,32
+311,32ª,21:30,Internacional                 RS  2  x  0  Criciúma                       SC,Beira-Rio,Porto Alegre,RS,05/11,ter,Internacional,RS,2,0,Criciúma,SC,Internacional RS - 2,Criciúma SC - 0,32
+313,32ª,21:30,Bahia                            BA  0  x  3  São Paulo                    SP,Arena Fonte Nova,Salvador,BA,05/11,ter,Bahia,BA,0,3,São Paulo,SP,Bahia BA - 0,São Paulo SP - 3,32
+315,32ª,21:30,Botafogo                       RJ  3  x  0  Vasco da Gama           RJ,Nilton Santos,Rio de Janeiro,RJ,05/11,ter,Botafogo,RJ,3,0,Vasco da Gama,RJ,Botafogo RJ - 3,Vasco da Gama RJ - 0,32
+312,32ª,21:00,Cruzeiro                        MG 0  x  1  Flamengo                     RJ,Independência,Belo Horizonte,MG,06/11,qua,Cruzeiro,MG,0,1,Flamengo,RJ,Cruzeiro MG - 0,Flamengo RJ - 1,32
+319,32ª,21:00,Atlético                          GO 1  x  0  Atlético                         MG,Antônio Accioly,Goiânia,GO,06/11,qua,Atlético,GO,1,0,Atlético,MG,Atlético GO - 1,Atlético MG - 0,32
+321,33ª,19:00,Internacional                 RS  2  x  0  Fluminense                  RJ,Beira-Rio,Porto Alegre,RS,08/11,sex,Internacional,RS,2,0,Fluminense,RJ,Internacional RS - 2,Fluminense RJ - 0,33
+326,33ª,21:30,Palmeiras                     SP  1  x  0  Grêmio                         RS,Allianz Parque,São Paulo,SP,08/11,sex,Palmeiras,SP,1,0,Grêmio,RS,Palmeiras SP - 1,Grêmio RS - 0,33
+323,33ª,16:30,Vitória                           BA  1  x  2  Corinthians                   SP,Manoel Barradas,Salvador,BA,08/11,sex,Vitória,BA,1,2,Corinthians,SP,Vitória BA - 1,Corinthians SP - 2,33
+325,33ª,16:30,Botafogo                       RJ  0  x  0  Cuiabá                          MT,Nilton Santos,Rio de Janeiro,RJ,08/11,sex,Botafogo,RJ,0,0,Cuiabá,MT,Botafogo RJ - 0,Cuiabá MT - 0,33
+322,33ª,19:00,Cruzeiro                        MG 2  x  1  Criciúma                       SC,Mineirão,Belo Horizonte,MG,08/11,sex,Cruzeiro,MG,2,1,Criciúma,SC,Cruzeiro MG - 2,Criciúma SC - 1,33
+328,33ª,19:00,Fortaleza                      CE  3  x  0  Vasco da Gama           RJ,Arena Castelão,Fortaleza,CE,08/11,sex,Fortaleza,CE,3,0,Vasco da Gama,RJ,Fortaleza CE - 3,Vasco da Gama RJ - 0,33
+329,33ª,19:00,Atlético                          GO 0  x  0  Red Bull Bragantino    SP,Antônio Accioly,Goiânia,GO,08/11,sex,Atlético,GO,0,0,Red Bull Bragantino,SP,Atlético GO - 0,Red Bull Bragantino SP - 0,33
+330,33ª,19:00,Juventude                     RS  2  x  1  Bahia                            BA,Alfredo Jaconi,Caxias do Sul,RS,08/11,sex,Juventude,RS,2,1,Bahia,BA,Juventude RS - 2,Bahia BA - 1,33
+327,33ª,21:00,São Paulo                     SP  2  x  1  Athletico                       PR,Morumbis,São Paulo,SP,08/11,sex,São Paulo,SP,2,1,Athletico,PR,São Paulo SP - 2,Athletico PR - 1,33
+324,33ª,20:00,Flamengo*                    RJ  0  x  0  Atlético*                        MG,Maracanã,Rio de Janeiro,RJ,13/11,qua,Flamengo*,RJ,0,0,Atlético*,MG,Flamengo* RJ - 0,Atlético* MG - 0,33
+336,34ª,11:00,Corinthians1                  SP  2  x  1  Cruzeiro1                      MG,Neo Química Arena,São Paulo,SP,20/11,qua,Corinthians1,SP,2,1,Cruzeiro1,MG,Corinthians1 SP - 2,Cruzeiro1 MG - 1,34
+337,34ª,16:30,Red Bull Bragantino     SP  1  x  1  São Paulo                    SP,Nabi Abi Chedid,Bragança Paulista,SP,20/11,qua,Red Bull Bragantino,SP,1,1,São Paulo,SP,Red Bull Bragantino SP - 1,São Paulo SP - 1,34
+338,34ª,16:30,Athletico                       PR  2  x  0  Atlético                         GO,Ligga Arena,Curitiba,PR,20/11,qua,Athletico,PR,2,0,Atlético,GO,Athletico PR - 2,Atlético GO - 0,34
+340,34ª,16:30,Criciúma                       SC  0  x  1  Vitória                           BA,Heriberto Hulse,Criciúma,SC,20/11,qua,Criciúma,SC,0,1,Vitória,BA,Criciúma SC - 0,Vitória BA - 1,34
+333,34ª,18:00,Bahia                            BA  1  x  2  Palmeiras                     SP,Arena Fonte Nova,Salvador,BA,20/11,qua,Bahia,BA,1,2,Palmeiras,SP,Bahia BA - 1,Palmeiras SP - 2,34
+331,34ª,19:00,Grêmio                          RS  2  x  2  Juventude                    RS,Arena do Grêmio,Porto Alegre,RS,20/11,qua,Grêmio,RS,2,2,Juventude,RS,Grêmio RS - 2,Juventude RS - 2,34
+339,34ª,19:00,Cuiabá                          MT  1  x  2  Flamengo                     RJ,Arena Pantanal,Cuiabá,MT,20/11,qua,Cuiabá,MT,1,2,Flamengo,RJ,Cuiabá MT - 1,Flamengo RJ - 2,34
+332,34ª,21:30,Atlético                          MG 0  x  0  Botafogo                      RJ,Arena Independência,Belo Horizonte,MG,20/11,qua,Atlético,MG,0,0,Botafogo,RJ,Atlético MG - 0,Botafogo RJ - 0,34
+335,34ª,20:00,Vasco da Gama           RJ  0  x  1  Internacional                RS,São Januário,Rio de Janeiro,RJ,21/11,qui,Vasco da Gama,RJ,0,1,Internacional,RS,Vasco da Gama RJ - 0,Internacional RS - 1,34
+334,34ª,21:30,Fluminense                   RJ  2  x  2  Fortaleza                      CE,Maracanã,Rio de Janeiro,RJ,22/11,sex,Fluminense,RJ,2,2,Fortaleza,CE,Fluminense RJ - 2,Fortaleza CE - 2,34
+345,35ª,19:30,Botafogo                       RJ  1  x  1  Vitória                           BA,Nilton Santos,Rio de Janeiro,RJ,2025-11-23 00:00:00,sab,Botafogo,RJ,1,1,Vitória,BA,Botafogo RJ - 1,Vitória BA - 1,35
+349,35ª,19:30,Atlético                          GO 0  x  1  Palmeiras                     SP,Antônio Accioly,Goiânia,GO,2025-11-23 00:00:00,sab,Atlético,GO,0,1,Palmeiras,SP,Atlético GO - 0,Palmeiras SP - 1,35
+350,35ª,19:30,Juventude                     RS  1  x  1  Cuiabá                          MT,Alfredo Jaconi,Caxias do Sul,RS,2025-11-23 00:00:00,sab,Juventude,RS,1,1,Cuiabá,MT,Juventude RS - 1,Cuiabá MT - 1,35
+347,35ª,21:30,São Paulo                     SP  2  x  2  Atlético                         MG,Morumbis,São Paulo,SP,2025-11-23 00:00:00,sab,São Paulo,SP,2,2,Atlético,MG,São Paulo SP - 2,Atlético MG - 2,35
+341,35ª,16:00,Internacional                 RS  4  x  1  Red Bull Bragantino    SP,Beira-Rio,Porto Alegre,RS,24/11,dom,Internacional,RS,4,1,Red Bull Bragantino,SP,Internacional RS - 4,Red Bull Bragantino SP - 1,35
+343,35ª,16:00,Bahia                            BA  1  x  1  Athletico                       PR,Arena Fonte Nova,Salvador,BA,24/11,dom,Bahia,BA,1,1,Athletico,PR,Bahia BA - 1,Athletico PR - 1,35
+346,35ª,16:00,Corinthians                   SP  3  x  1  Vasco da Gama           RJ,Neo Química Arena,São Paulo,SP,24/11,dom,Corinthians,SP,3,1,Vasco da Gama,RJ,Corinthians SP - 3,Vasco da Gama RJ - 1,35
+344,35ª,19:00,Fluminense                   RJ  0  x  0  Criciúma                       SC,Maracanã,Rio de Janeiro,RJ,26/11,ter,Fluminense,RJ,0,0,Criciúma,SC,Fluminense RJ - 0,Criciúma SC - 0,35
+348,35ª,20:00,Fortaleza                      CE  0  x  0  Flamengo                     RJ,Arena Castelão,Fortaleza,CE,26/11,ter,Fortaleza,CE,0,0,Flamengo,RJ,Fortaleza CE - 0,Flamengo RJ - 0,35
+342,35ª,21:00,Cruzeiro                        MG 1  x  1  Grêmio                         RS,Mineirão,Belo Horizonte,MG,27/11,qua,Cruzeiro,MG,1,1,Grêmio,RS,Cruzeiro MG - 1,Grêmio RS - 1,35
+352,36ª,21:30,Atlético                          MG 2  x  3  Juventude                    RS,Arena Independência,Belo Horizonte,MG,26/11,ter,Atlético,MG,2,3,Juventude,RS,Atlético MG - 2,Juventude RS - 3,36
+356,36ª,21:30,Palmeiras                     SP  1  x  3  Botafogo                      RJ,Allianz Parque,São Paulo,SP,26/11,ter,Palmeiras,SP,1,3,Botafogo,RJ,Palmeiras SP - 1,Botafogo RJ - 3,36
+359,36ª,19:30,Cuiabá                          MT  1  x  2  Bahia                            BA,Arena Pantanal,Cuiabá,MT,26/11,ter,Cuiabá,MT,1,2,Bahia,BA,Cuiabá MT - 1,Bahia BA - 2,36
+360,36ª,19:30,Criciúma                       SC  2  x  4  Corinthians                   SP,Heriberto Hulse,Criciúma,SC,26/11,ter,Criciúma,SC,2,4,Corinthians,SP,Criciúma SC - 2,Corinthians SP - 4,36
+355,36ª,21:30,Vasco da Gama           RJ  2  x  2  Atlético                         GO,São Januário,Rio de Janeiro,RJ,26/11,ter,Vasco da Gama,RJ,2,2,Atlético,GO,Vasco da Gama RJ - 2,Atlético GO - 2,36
+351,36ª,16:00,Grêmio                          RS  2  x  1  São Paulo                    SP,Arena do Grêmio,Porto Alegre,RS,01/12,dom,Grêmio,RS,2,1,São Paulo,SP,Grêmio RS - 2,São Paulo SP - 1,36
+354,36ª,16:00,Flamengo                     RJ  3  x  2  Internacional                RS,Maracanã,Rio de Janeiro,RJ,01/12,dom,Flamengo,RJ,3,2,Internacional,RS,Flamengo RJ - 3,Internacional RS - 2,36
+353,36ª,18:30,Vitória                           BA  2  x  0  Fortaleza                      CE,Manoel Barradas,Salvador,BA,01/12,dom,Vitória,BA,2,0,Fortaleza,CE,Vitória BA - 2,Fortaleza CE - 0,36
+357,36ª,18:30,Red Bull Bragantino     SP  1  x  1  Cruzeiro                       MG,Nabi Abi Chedid,Bragança Paulista,SP,01/12,dom,Red Bull Bragantino,SP,1,1,Cruzeiro,MG,Red Bull Bragantino SP - 1,Cruzeiro MG - 1,36
+358,36ª,18:30,Athletico                       PR  1  x  1  Fluminense                  RJ,Ligga Arena,Curitiba,PR,01/12,dom,Athletico,PR,1,1,Fluminense,RJ,Athletico PR - 1,Fluminense RJ - 1,36
+366,37ª,20:00,Corinthians                   SP  3  x  0  Bahia                            BA,Neo Química Arena,São Paulo,SP,03/12,ter,Corinthians,SP,3,0,Bahia,BA,Corinthians SP - 3,Bahia BA - 0,37
+365,37ª,19:00,Vasco da Gama           RJ  2  x  0  Atlético                         MG,São Januário,Rio de Janeiro,RJ,04/12,qua,Vasco da Gama,RJ,2,0,Atlético,MG,Vasco da Gama RJ - 2,Atlético MG - 0,37
+363,37ª,20:00,Vitória                           BA  1  x  1  Grêmio                         RS,Manoel Barradas,Salvador,BA,04/12,qua,Vitória,BA,1,1,Grêmio,RS,Vitória BA - 1,Grêmio RS - 1,37
+367,37ª,20:00,São Paulo                     SP  1  x  2  Juventude                    RS,Morumbis,São Paulo,SP,04/12,qua,São Paulo,SP,1,2,Juventude,RS,São Paulo SP - 1,Juventude RS - 2,37
+370,37ª,20:00,Criciúma                       SC  0  x  3  Flamengo                     RJ,Heriberto Hulse,Criciúma,SC,04/12,qua,Criciúma,SC,0,3,Flamengo,RJ,Criciúma SC - 0,Flamengo RJ - 3,37
+361,37ª,21:30,Internacional                 RS  0  x  1  Botafogo                      RJ,Beira-Rio,Porto Alegre,RS,04/12,qua,Internacional,RS,0,1,Botafogo,RJ,Internacional RS - 0,Botafogo RJ - 1,37
+362,37ª,21:30,Cruzeiro                        MG 1  x  2  Palmeiras                     SP,Mineirão,Belo Horizonte,MG,04/12,qua,Cruzeiro,MG,1,2,Palmeiras,SP,Cruzeiro MG - 1,Palmeiras SP - 2,37
+369,37ª,21:30,Atlético                          GO 3  x  1  Fortaleza                      CE,Antônio Accioly,Goiânia,GO,04/12,qua,Atlético,GO,3,1,Fortaleza,CE,Atlético GO - 3,Fortaleza CE - 1,37
+364,37ª,20:00,Fluminense                   RJ  1  x  0  Cuiabá                          MT,Maracanã,Rio de Janeiro,RJ,05/12,qui,Fluminense,RJ,1,0,Cuiabá,MT,Fluminense RJ - 1,Cuiabá MT - 0,37
+368,37ª,20:00,Athletico                       PR  1  x  2  Red Bull Bragantino    SP,Ligga Arena,Curitiba,PR,05/12,qui,Athletico,PR,1,2,Red Bull Bragantino,SP,Athletico PR - 1,Red Bull Bragantino SP - 2,37
+371,38ª,16:00,Grêmio                          RS   0  x   3   Corinthians                   SP,Arena do Grêmio,Porto Alegre,RS,08/12,dom,Grêmio,RS,0,3,Corinthians,SP,Grêmio RS - 0,Corinthians SP - 3,38
+372,38ª,16:00,Atlético                          MG   1  x   0   Athletico                       PR,Arena MRV,Belo Horizonte,MG,08/12,dom,Atlético,MG,1,0,Athletico,PR,Atlético MG - 1,Athletico PR - 0,38
+373,38ª,16:00,Bahia                            BA   2   x   0   Atlético                         GO,Arena Fonte Nova,Salvador,BA,08/12,dom,Bahia,BA,2,0,Atlético,GO,Bahia BA - 2,Atlético GO - 0,38
+374,38ª,16:00,Flamengo                     RJ   2    x  2    Vitória                           BA,Maracanã,Rio de Janeiro,RJ,08/12,dom,Flamengo,RJ,2,2,Vitória,BA,Flamengo RJ - 2,Vitória BA - 2,38
+375,38ª,16:00,Botafogo                       RJ  2     x  1    São Paulo                    SP,Nilton Santos,Rio de Janeiro,RJ,08/12,dom,Botafogo,RJ,2,1,São Paulo,SP,Botafogo RJ - 2,São Paulo SP - 1,38
+376,38ª,16:00,Palmeiras                     SP    0  x   1   Fluminense                  RJ,Allianz Parque,São Paulo,SP,08/12,dom,Palmeiras,SP,0,1,Fluminense,RJ,Palmeiras SP - 0,Fluminense RJ - 1,38
+377,38ª,16:00,Red Bull Bragantino     SP    5  x   1   Criciúma                       SC,Nabi Abi Chedid,Bragança Paulista,SP,08/12,dom,Red Bull Bragantino,SP,5,1,Criciúma,SC,Red Bull Bragantino SP - 5,Criciúma SC - 1,38
+378,38ª,16:00,Fortaleza                      CE   3   x   0   Internacional                RS,Arena Castelão,Fortaleza,CE,08/12,dom,Fortaleza,CE,3,0,Internacional,RS,Fortaleza CE - 3,Internacional RS - 0,38
+379,38ª,16:00,Cuiabá                          MT    1  x   2   Vasco da Gama           RJ,Arena Pantanal,Cuiabá,MT,08/12,dom,Cuiabá,MT,1,2,Vasco da Gama,RJ,Cuiabá MT - 1,Vasco da Gama RJ - 2,38
+380,38ª,16:00,Juventude                     RS    0  x    1  Cruzeiro                       MG,Alfredo Jaconi,Caxias do Sul,RS,08/12,dom,Juventude,RS,0,1,Cruzeiro,MG,Juventude RS - 0,Cruzeiro MG - 1,38

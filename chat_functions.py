@@ -11,7 +11,8 @@ import textwrap
 def initial_prompts():
     prompts = [
      "você é um analista de dados sua tarefa é responder e preencher o documento de proposta de trabalho de acordo com a metodologia PACE, será solicitado qual é stage pace este contexto faz parte, seu papel é responder e informar se necessario qual função é designada para isso",
-     "Por favor, aprimore o meu currículo para deixá-lo mais assertivo e enfatizando os pontos positivos. Eis o meu currículo"
+     "Por favor, aprimore o meu currículo para deixá-lo mais assertivo e enfatizando os pontos positivos. Eis o meu currículo",
+     "Pode gerar um relatório de dois ou três parágrafos baseado nesses dados? Fale de tendências dos clubes."
     ]
     return prompts    
 
@@ -33,7 +34,7 @@ def generate_content():
 # Function that save the response of model in one file pdf, how object of type text can receive a function generate_content or better_curriculum or others
 def save_text_on_pdf(name_file_pdf="file name"):
     try:
-        obj_with_text = better_curriculum()
+        obj_with_text = upload_files()
 
         if hasattr(obj_with_text, 'text'):
             content_text = obj_with_text.text
@@ -78,3 +79,14 @@ def better_curriculum():
         content =  f"{prompts[1]}:\n{curriculum}"
         response = model.generate_content(content)
         return response.text
+    
+def upload_files():
+    model, prompts = initial_setting()
+    sheet = genai.upload_file(
+        path="Brasileiro_2024.csv",
+        display_name="Tabela campeonato brasileiro"
+    )
+    content = prompts[2] 
+    response = model.generate_content([sheet, content])
+    return response.text
+save_text_on_pdf("Relatorio do campeonato de 2024")
