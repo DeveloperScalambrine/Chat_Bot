@@ -21,7 +21,7 @@ def initial_prompts():
 def initial_setting():
     prompts = initial_prompts()
     genai.configure(api_key=os.environ["KEY_GEMINI"])
-    model = genai.GenerativeModel(model_name="gemini-2.5-flash", system_instruction=prompts[1], tools=[generate_content, save_text_on_pdf, better_curriculum, upload_files])
+    model = genai.GenerativeModel(model_name="gemini-2.5-flash", system_instruction=prompts[2], tools=[generate_content, save_text_on_pdf, better_curriculum, upload_files])
     return model, prompts
 
 # Generates AI content using Gemini model, prints, then returns text.

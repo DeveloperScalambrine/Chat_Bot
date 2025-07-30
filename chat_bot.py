@@ -5,12 +5,7 @@ import time
 from google.api_core.exceptions import InvalidArgument
 
 from chat_functions import(
-    initial_prompts,
-    initial_setting,
-    generate_content,
-    save_text_on_pdf,
-    better_curriculum,
-    upload_files,
+    initial_setting    
 )
 
 # Initialize the chat of mode global
