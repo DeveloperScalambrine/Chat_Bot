@@ -5,18 +5,15 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
 import textwrap
-import mimetypes
-import gradio as gr
-import time
-from google.api_core.exceptions import InvalidArgument
 
 # This function allows you to create multiple prompts, a concept for prompt engineering
 def initial_prompts():
     prompts = [
      "você é um analista de dados sua tarefa é responder e preencher o documento de proposta de trabalho de acordo com a metodologia PACE, será solicitado qual é stage pace este contexto faz parte, seu papel é responder e informar se necessario qual função é designada para isso",
-     "Por favor, aprimore o meu currículo para deixá-lo mais assertivo e enfatizando os pontos positivos. Eis o meu currículo",
-     "Pode gerar um relatório de dois ou três parágrafos baseado nesses dados? Fale de tendências dos clubes.",
-     "Qual é a extensão do arquivo recebido, exemplo jpeg, pdf, txt, etc"
+     "Por favor, aprimore o meu currículo para deixá-lo mais assertivo e enfatizando os pontos positivos.",
+     "Pode gerar um relatório de dois ou três parágrafos baseado nesses dados? Fale de tendências, insights e outliers destacando-os.",
+     "Qual é a extensão do arquivo recebido, exemplo jpeg, pdf, txt, etc",
+     "Voce tem acesso a funções de gerar conteudo, melhorar curriculo, subir arquivos e salvar arquivos pdf, chame-as quando achar necessario e nunca exponha o a função chamada por voce."
     ]
     return prompts    
 
@@ -24,21 +21,22 @@ def initial_prompts():
 def initial_setting():
     prompts = initial_prompts()
     genai.configure(api_key=os.environ["KEY_GEMINI"])
-    model = genai.GenerativeModel("gemini-1.5-flash", system_instruction=prompts[3])
+    model = genai.GenerativeModel(model_name="gemini-2.5-flash", system_instruction=prompts[1], tools=[generate_content, save_text_on_pdf, better_curriculum, upload_files])
     return model, prompts
 
 # Generates AI content using Gemini model, prints, then returns text.
+print("Gerar conteudo")
 def generate_content():
     model = initial_setting()    
     content = "Olá,"
     response = model.generate_content(content)
-    print(response.text)
     return response.text
 
 # Function that save the response of model in one file pdf, how object of type text can receive a function generate_content or better_curriculum or others
+print("Salvar arquivo pdf")
 def save_text_on_pdf(name_file_pdf="file name"):
     try:
-        obj_with_text = upload_files()
+        obj_with_text = better_curriculum()
 
         if hasattr(obj_with_text, 'text'):
             content_text = obj_with_text.text
@@ -76,6 +74,7 @@ def save_text_on_pdf(name_file_pdf="file name"):
     print(f"O texto foi salvo com sucesso em '{name_file_pdf}' usando FPDF.")
 
 # Function that receives a resume and suggests improvements
+print("Melhorar curriculo")
 def better_curriculum():
     model, prompts = initial_setting()
     with open("Curriculo.txt", "r") as file:
@@ -85,69 +84,14 @@ def better_curriculum():
         return response.text
     
 # Function to upload of the files
+print("Subir arquivos")
 def upload_files():
     model, prompts = initial_setting()
     sheet = genai.upload_file(
-        path="Brasileiro_2024.csv",
+        path="Analise Sorveteria.csv",
         display_name="Tabela campeonato brasileiro"
     )
     content = prompts[2] 
     response = model.generate_content([sheet, content])
     return response.text
-
-# Initialize the chat of mode global
-model, prompts = initial_setting()
-chat =  model.start_chat(history=[])
-# Function that its passed for create interface using gradio
-def gradio_wrapper(message: dict, history: list) -> str:
-    try:
-
-        user_message_text = message.get("text", "")
-        user_message_files = message.get("files", [])
-
-        # List to build the 'parts' of the message to Gemini
-        gemini_content_parts = []
-
-        if user_message_text:
-            gemini_content_parts.append(user_message_text)
-
-        # process attached files
-        for file_path in user_message_files:
-            if file_path: 
-                try:
-                    # Try to guess the MIME type of the file
-                    mime_type, _ = mimetypes.guess_type(file_path)
-                    if not mime_type:
-                        mime_type = 'application/octet-stream'
-                    with open(file_path, 'rb') as f:
-                        file_data = f.read()
-                    gemini_content_parts.append(
-                        {
-                            'mime_type': mime_type,
-                            'data': file_data
-                        }
-                    )
-                except Exception as file_err:
-                    print(f"DEBUG: Erro ao processar arquivo {file_path}: {file_err}")
-                    gemini_content_parts.append(f"Erro ao carregar arquivo: {os.path.basename(file_path)}. Detalhes: {file_err}")
-        if not gemini_content_parts:
-           return "Por favor, digite uma mensagem ou anexe um arquivo para iniciar a conversa."
-
-        # Send the 'parts' (text + files) to the Gemini model
-        # 'chat' is the global chat object that holds the context
-        response = chat.send_message(gemini_content_parts)
-
-        # Return the response of text
-        if hasattr(response, 'text') and isinstance(response.text, str):
-            return response.text
-        else:
-            print(f"DEBUG: Resposta inesperada da API Gemini: {response}")
-            return "Desculpe, recebi uma resposta inesperada do modelo."
-
-    except Exception as e:
-        print(f"DEBUG: Erro geral na função gradio_wrapper: {e}")
-        return f"Desculpe, ocorreu um erro ao processar sua mensagem: {e}" 
-chat_interface = gr.ChatInterface(fn=gradio_wrapper,
-title="Chatbot com Suporte a Arquivos 🤖", multimodal=True)
-chat_interface.launch()
 
